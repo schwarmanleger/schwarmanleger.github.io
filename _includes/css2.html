@@ -1,0 +1,234 @@
+.masthead{
+	text-align: center;
+	padding: 20px 0;
+    border-bottom: 1px solid #eee;
+}
+.site-info {
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+
+nav {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+}
+
+nav a {
+    margin: 0 10px;
+    color: #4183C4;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.index_infobox {
+	border: 1px solid #EEE; background-color:#EEE; width: 100%; max-width:750px; padding: 20px; margin: 20px 0; border-radius:10px;
+}
+.index_infobox_headline {
+	font-weight: bold; font-size:24px;
+}
+
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+.previouspagearrow {
+	font-size: 18px;
+	font-weight: bold;
+}
+.nextpagearrow {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.plattform_box {
+	clear: both;
+	border-bottom: 1px solid #CCC;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display:table;
+}
+.plattform_image{
+	display: table-cell;
+	vertical-align:top;
+	width:40%;
+	text-align:center;
+}
+.plattform_name{
+	display: table-cell;
+	vertical-align:top;
+	width:40%;
+	text-align:center;
+    vertical-align: middle;
+    font-size: 24px;
+	
+}
+.platform_summary{
+	padding-left: 10px;
+	display: table-cell;
+	vertical-align:top;
+}
+
+@media (max-width: 700px) {
+	.plattform_image{
+		display: block;
+        width: 100%;
+	}
+	.platform_summary {
+        display: block;
+        width: 100%;
+    }
+}
+
+
+.mdl-list__item {
+        list-style-type: none;
+    margin: 0;
+    padding: 0;
+      }
+        .imgleft {
+          float: left;
+          width: 100px;
+          height: 80px;
+          border: 1px solid #333;
+          margin: 0 10px 10px 10px;
+        }
+        .content1{
+          position: relative;
+      float: left;
+      border: 1px solid #CCC;
+        }
+        .rig {
+          clear: both;        
+        }
+
+        /* 
+	Generic Styling, for Desktops/Laptops 
+	*/
+	table { 
+		width: 100%; 
+		border-collapse: collapse; 
+	}
+	/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: #eee; 
+	}
+	th { 
+		background: #333; 
+		color: white; 
+		font-weight: bold; 
+	}
+	td, th { 
+		padding: 6px; 
+		border: 1px solid #ccc; 
+		text-align: left; 
+	}
+
+  @media 
+	only screen and (max-width: 760px),
+	(min-device-width: 768px) and (max-device-width: 1024px)  {
+	
+		/* Force table to not be like tables anymore */
+		table, thead, tbody, th, td, tr { 
+			display: block; 
+		}
+		
+		/* Hide table headers (but not display: none;, for accessibility) */
+		thead tr { 
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+		
+		tr { border: 1px solid #ccc; }
+		
+		td { 
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px solid #eee; 
+			position: relative;
+			padding-left: 50%; 
+		}
+		
+		td:before { 
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top: 6px;
+			left: 6px;
+			width: 45%; 
+			padding-right: 10px; 
+			white-space: nowrap;
+			font-weight: bold;
+		}
+		
+		/*
+		Label the data
+		*/
+    td:nth-of-type(1):before { content: "Plattform"; }
+		td:nth-of-type(2):before { content: "Projekt-Name"; }
+		td:nth-of-type(3):before { content: "Projekttyp"; }
+		td:nth-of-type(4):before { content: "Investitionstyp"; }
+		td:nth-of-type(5):before { content: "Zins"; }
+		td:nth-of-type(6):before { content: "Zinszahlung"; }
+		td:nth-of-type(7):before { content: "Tilgung"; }
+		td:nth-of-type(8):before { content: "Laufzeitende"; }
+		td:nth-of-type(9):before { content: "Mindestinvestment"; }
+	}
+	
+	/* Smartphones (portrait and landscape) ----------- */
+	@media only screen
+	and (min-device-width : 320px)
+	and (max-device-width : 480px) {
+		body { 
+			padding: 0; 
+			margin: 0; 
+			width: 320px; }
+		}
+	
+	/* iPads (portrait and landscape) ----------- */
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		body { 
+			width: 495px; 
+		}
+	}
+
+
+  .alignleft {
+    display: inline;
+    float: left;
+    margin-right: 15px;
+}
+style.css:81
+img {
+    border-style: none;
+    vertical-align: top;
+    max-width: 100%;
+    height: auto;
+}
+img[Attributes Style] {
+    width: 200px;
+}
+
+.anbieterimage{
+  border:0px;
+  width:200px;
+  height:150px;
+}

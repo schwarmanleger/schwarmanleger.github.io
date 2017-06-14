@@ -1,0 +1,119 @@
+---
+layout: default
+max_num_of_posts_here: 3
+title: SchwarmAnleger.de - unabhängiges Portal zum Thema Crowd-Funding, Crowd-Investing, Crowd-Lending
+canonical_url: http://www.schwarmanleger.de/
+---
+
+    <div class="wrapper-masthead m-b20">
+      <div class="container">
+        <header class="masthead clearfix">
+          <!--
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          -->
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }} </a></h1>
+
+            <p class="site-description">Crowd-Funding &middot; Crowd-Investing &middot; Crowd-Lending</p>
+<!--
+            <p class="site-description">{{ site.description }}</p>
+-->            
+          </div>
+
+        </header>
+      </div>
+    </div>
+
+<div>
+  <div class="intro-block">
+    SchwarmAnleger.de ist das deutschsprachige Informationsportal zu den Themen Crowd-Funding, Crowd-Investing und Crowd-Lending.
+    Wir klären auf, vergleichen, analysieren Angebote und informieren über Neuigkeiten.</div>
+
+  <div class="ampstart-card pt2">
+    <div class="p0 m0 px3 mb4 i-amphtml-form" >
+      <fieldset class="border-none p0 m0">
+        <legend class="h2 block">Crowd-Investing <span class="fs-12">(zu Deutsch: Schwarmfinanzierung)</span></legend>
+        
+        <div class="ampstart-input inline-block relative m0 p0">
+          <ul class="m0">
+            <li>Schon ab einmalig 10 Euro in Immobilienprojekte und Geschäftsideen investieren</li>
+            <li>Rendite (je nach Projekt): 4-10% p.a. Festzins und/oder Erfolgs-/Exit-Beteiligung</li>
+            <li>Gebührenfrei und unbürokratisch</li>
+          </ul>
+          <div class="ta-r"><a href="/wissen/">Mehr Informationen &raquo;</a></div>
+          </div>
+        </div>			
+      </fieldset>
+    </div>
+  </div>
+
+  {% comment %}
+  <div class="ampstart-card pt2">
+    <div class="p0 m0 px3 mb4 i-amphtml-form" >
+      <fieldset class="border-none p0 m0">
+        <legend class="h2 block">Crowd-Lending</legend>
+        
+        <div class="ampstart-input inline-block relative m0 p0">
+          <ul class="m0">
+            <li>P2P Lending: Privatkredite</li>
+            <li>7-10% Rendite</li>    
+          </ul>
+          <div class="ta-r"><a href="/wissen/">Mehr Informationen &raquo;</a></div>
+        </div>			
+      </fieldset>
+    </div>
+  </div>
+
+  <div class="ampstart-card pt2">
+    <div class="p0 m0 px3 mb4 i-amphtml-form" >
+      <fieldset class="border-none p0 m0">
+        <legend class="h2 block">Social Trading</legend>
+        
+        <div class="ampstart-input inline-block relative m0 p0">
+          <ul class="m0">
+            <li>Die Strategien erfolgreicher Aktien-Trader kopieren</li>
+            <li>...</li>
+          </ul>
+          <div class="ta-r"><a href="/wissen/">Mehr Informationen &raquo;</a></div>
+        </div>			
+      </fieldset>
+    </div>
+  </div>
+  {% endcomment %}  
+
+  <h3>Weiterführende Link</h3>
+  <div>
+    <a class="ampstart-btn mb3" href="/plattformen/">Plattformen &raquo;</a>
+    <a class="ampstart-btn mb3" href="/projekte/">Aktuelle Projekte &raquo;</a>
+    <a class="ampstart-btn mb3" href="/blog/">Blog &raquo;</a>
+    <a class="ampstart-btn mb3" href="/wissen/">Wissen &raquo;</a>
+  </div>
+
+  <h2>Aktuelle Nachrichten</h2>
+  <div class="posts">
+    {% for post in site.posts limit:page.max_num_of_posts_here %}
+        <div class="index-blog-entry">
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br/>     
+          {% if post.laufzeit %}
+            <span class="mdl-chip"><span class="mdl-chip__text">Laufzeit : {{post.laufzeit}}</span></span>
+          {% endif %}
+          {% if post.rendite %}
+            <span class="mdl-chip"><span class="mdl-chip__text">Rendite : {{post.rendite}}</span></span>
+          {% endif %}
+          
+        </div>
+    {% endfor %}
+  </div>
+  <div class="ta-r fs-12"><a href="/blog/">Weitere Nachrichten &raquo;</a></div>
+
+  <div class="kleintext">
+    <p>
+    Hinweis: Investments dieser Art sind riskant und sollten nur als Teil eines diversifizierten Portfolios erfolgen. Jedes Investment kann einen Totalverlust der Investitionssumme zur Folge haben.
+    </p>
+    <p>
+        Haftungsausschluss: Die Inhalte dieser Seite dienen ausschließlich der Information und stellen nicht eine Anlageberatung oder sonstige Empfehlung im Sinne des Wertpapierhandelsgesetzes dar. Die auf dieser Seite bereit gestellten Informationen sollen nicht als Aufforderung verstanden werden, ein Geschäft oder eine Transaktion einzugehen. Irrtümer vorbehalten.
+        Unseren vollständigen Disclaimer finden sie <a href="/disclaimer/">hier</a>.
+    </p>
+  </div>
+</div>

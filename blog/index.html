@@ -1,0 +1,56 @@
+---
+layout: default
+title: Nachrichten
+canonical_url: http://www.schwarmanleger.de/blog/
+---
+<h2>Nachrichten</h2>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      {% if post.laufzeit %}
+      <button>Laufzeit: {{post.laufzeit}}</button>
+      {% endif %}
+      {% if post.rendite %}
+      <button>Rendite: {{post.rendite}}</button>
+      {% endif %}
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <div class="rechts">
+        <a href="{{ site.baseurl }}{{ post.url }}" >Weiterlesen &raquo;</a>
+      </div>
+    </article>
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination ta-c">
+  {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}/blog/" class="previouspagearrow">&laquo;</a>
+    <a href="{{ paginator.previous_page_path }}" class="previouspagearrow">&lsaquo;</a>
+  {% endif %}
+  <span class="page_number fw-b">Seite {{ paginator.page }} von {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="nextpagearrow">&rsaquo;</a>
+    <a href="{{ site.baseurl }}/blog/page{{ paginator.total_pages }}/" class="nextpagearrow">&raquo;</a>
+  {% endif %}
+</div>
+<div class="pagination ta-c">
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <b>{{ page }}</b>
+    {% elsif page == 1 %}
+    <!--
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    -->
+      <a href="{{ site.baseurl }}/blog/">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+</div>

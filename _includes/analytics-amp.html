@@ -1,0 +1,22 @@
+<amp-analytics type="googleanalytics" id="analytics">
+  <script type="application/json">{
+    "vars": {
+      "account": "{{ site.google_analytics }}"
+    },
+    "triggers": {
+      "trackPageview": {
+        "on": "visible",
+        "request": "pageview",
+          "vars": {
+            "title": "{{ page.title | replace: "'", "\\'" }}",
+            "documentLocation": "{{ site.baseurl }}{{ page.url }}"
+          }
+      }
+    }
+    }
+  </script>
+</amp-analytics>
+<!-- 
+  No need for ga('set', 'anonymizeIp', true);
+  Data from AMP documents is always IP anonymized. https://support.google.com/analytics/answer/6343176?hl=en
+-->

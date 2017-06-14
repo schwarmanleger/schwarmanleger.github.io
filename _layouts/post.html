@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<article class="post">
+
+{% comment %}
+  {% if page.categories %}
+      {% for category in page.categories %}
+          <button href="#">{{ category }}</button> 
+      {% endfor %}
+  {% endif %}
+{% endcomment %}
+
+  <h1>{{ page.title }}</h1>
+
+  {% if post.laufzeit %}
+      <button>Laufzeit: {{post.laufzeit}}</button>
+  {% elsif page.laufzeit %}
+    <button>Laufzeit: {{page.laufzeit}}</button>
+  {% endif %}
+
+  {% if post.rendite %}
+    <button>Rendite: {{post.rendite}}</button>
+  {% elsif page.rendite %}
+    <button>Rendite: {{page.rendite}}</button>
+  {% endif %}
+
+  {% if post.zinsfaelligkeit %}
+    <button>Zinsfälligkeit: {{post.zinsfaelligkeit}}</button>
+  {% elsif page.zinsfaelligkeit %}
+    <button>Zinsfälligkeit: {{page.zinsfaelligkeit}}</button>
+  {% endif %}
+
+  <div class="date" style="text-align: right;">
+    {{ page.date | date: "%d.%m.%y" }}
+  </div>
+  
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+
+  {% include disqus.html %}
+</article>

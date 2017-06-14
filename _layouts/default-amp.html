@@ -1,0 +1,86 @@
+<!doctype html>
+<html ⚡>
+  <head>
+    <meta charset="utf-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <style amp-custom>
+    amp-social-share.custom-style {
+      background-color: #008080;
+      background-image: url('https://raw.githubusercontent.com/google/material-design-icons/master/social/1x_web/ic_share_white_48dp.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+    }
+  </style>
+    
+    <style>
+      {% include css2.html %}
+    </style>
+
+  </head>
+
+  <body>
+    <div class="wrapper-masthead" style="margin-bottom: 25px;">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav>
+						<a href="{{ site.baseurl }}/">Start</a>            
+            <a href="{{ site.baseurl }}/plattformen/">Plattformen</a>
+            <a href="{{ site.baseurl }}/projekte/">Projekte</a>
+						<a href="{{ site.baseurl }}/blog/">Blog</a>
+						<a href="{{ site.baseurl }}/wissen/">Wissen</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+
+          <amp-social-share type="email"></amp-social-share>
+  <amp-social-share type="facebook"
+    data-param-app_id="254325784911610"></amp-social-share>
+  <amp-social-share type="gplus"></amp-social-share>
+  <amp-social-share type="linkedin"></amp-social-share>
+  <amp-social-share type="pinterest"></amp-social-share>
+  <amp-social-share type="tumblr"></amp-social-share>
+  <amp-social-share type="twitter"></amp-social-share>
+  <amp-social-share type="whatsapp"></amp-social-share>
+
+          {% include svg-icons.html %}
+          <p class="text-muted"><a href="/impressum">Impressum</a> | <a href="/datenschutz/">Datenschutz</a> | <a href="/kontakt/">Kontakt</a> | <a href="/disclaimer/">Disclaimer</a></p>
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics-amp.html %}
+  </body>
+</html>
