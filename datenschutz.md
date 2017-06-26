@@ -19,17 +19,24 @@ freiwilliger Basis. Diese Daten werden ohne Ihre ausdr&uuml;ckliche
 Zustimmung nicht an Dritte weitergegeben.</p> <p>Wir weisen darauf hin, dass
 die Daten&uuml;bertragung im Internet (z.B. bei der Kommunikation per E-Mail)
 Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser Schutz der Daten
-vor dem Zugriff durch Dritte ist nicht m&ouml;glich.</p><p>&nbsp;</p>
+vor dem Zugriff durch Dritte ist nicht m&ouml;glich.</p>
+
+
+<p>Wir liefern unsere Beiträge auch als Accelerated Mobile Pages (AMP) aus. Es kann daher sein, dass Sie z.B. nach einer Google-Suche mit Ihrem Smartphone unsere Beiträge im Internet lesen und sich diese gar nicht auf unseren Servern befinden. Statt dessen kann es sein, dass die Seiten direkt aus dem Zwischenspeicher von Drittanbietern wie z.B. Google ausgeliefert werden. Sie erkennen dies daran, dass in der URL, von der aus Sie diese Seite aufgerufen haben, nicht unser Domainname (also unsere Internetseite) erscheint, sondern z.B. der Domaininame von Google. Google wird den Quelltext unserer Seite nicht verändern.</p>
+<p>Sofern sich die AMP-Version der Seite bei Google oder sonstigen Drittanbietern im Zwischenspeicher befindet und von dort aus aufgerufen wird, haben wir keinen Einfluss auf die Datenverarbeitung und den Umgang mit Ihrer IP-Adresse. Wir achten darauf, dass wir über unsere AMP-Seiten keine personenbezogenen Daten erheben. Aus diesem Grund wird die IP-Adresse - von unserer Seite - ausschließlich anonymisiert übertragen.</p>
+
+<p>&nbsp;</p>
 <h2>Cookies</h2> <p>Die Internetseiten verwenden teilweise so genannte
 Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten
 keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher,
 effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf
-Ihrem Rechner abgelegt werden und die Ihr Browser speichert.</p> <p>Die
-meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“.
+Ihrem Rechner abgelegt werden und die Ihr Browser speichert.</p> 
+
+<p>Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“.
 Sie werden nach Ende Ihres Besuchs automatisch gel&ouml;scht. Andere Cookies
 bleiben auf Ihrem Endger&auml;t gespeichert, bis Sie diese l&ouml;schen.
 Diese Cookies erm&ouml;glichen es uns, Ihren Browser beim n&auml;chsten
-Besuch wiederzuerkennen. Durch die weitere Nutzung der Website stimmen Sie dem zu.</p> <p>Sie k&ouml;nnen Ihren Browser so einstellen,
+Besuch wiederzuerkennen und dadurch die Nutzerfreundlichkeit zu verbessern. Durch die weitere Nutzung der Website stimmen Sie dem zu.</p> <p>Sie k&ouml;nnen Ihren Browser so einstellen,
 dass Sie &uuml;ber das Setzen von Cookies informiert werden und Cookies nur
 im Einzelfall erlauben, die Annahme von Cookies f&uuml;r bestimmte F&auml;lle
 oder generell ausschlie&szlig;en sowie das automatische L&ouml;schen der
@@ -55,9 +62,20 @@ der Benutzung der Website durch Sie erm&ouml;glichen. Die durch den Cookie
 erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der
 Regel an einen Server von Google in den USA &uuml;bertragen und dort
 gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
-</p> <p>Mehr Informationen zum Umgang mit Nutzerdaten bei Google
+</p>
+<p>Wir nutzen Google Analytics weiterhin dazu, über die implementierte Funktion Demographics and Interest Reporting, Daten aus AdWords und dem Double-Click-Cookie zu statistischen Zwecken auszuwerten. Über diese Funktion erhalten wir im Rahmen der Nutzung von Google Analytics Berichte über anonymisierten Besucherdaten von Drittanbietern (zum Beispiel anonymisiertes Alter, Geschlecht und Interessen). Sollten Sie dies nicht wünschen, können Sie dies über den Anzeigenvorgaben-Manager <a href="http://www.google.com/settings/ads/onweb/?hl=de">http://www.google.com/settings/ads/onweb/?hl=de</a> deaktivieren.</p>
+
+<p>Wir weisen Sie darauf hin, dass auf dieser Website Google Analytics um den Code „anonymizeIp“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.
+</p>
+
+<p>Mehr Informationen zum Umgang mit Nutzerdaten bei Google
 Analytics finden Sie in der Datenschutzerkl&auml;rung von Google: <a
 href="https://support.google.com/analytics/answer/6004245?hl=de">https://support.google.com/analytics/answer/6004245?hl=de</a></p>
+
+<p>
+Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter <a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a> bzw. unter <a href="https://www.google.de/intl/de/policies/">https://www.google.de/intl/de/policies/</a>. 
+</p>
+
 <p><strong>Browser Plugin</strong></p> <p>Sie k&ouml;nnen die Speicherung der
 Cookies durch eine entsprechende Einstellung Ihrer Browser-Software
 verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
@@ -69,18 +87,14 @@ Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem
 folgenden Link verf&uuml;gbare Browser-Plugin herunterladen und installieren:
 <a
 href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a></p>
-<p><strong>Widerspruch gegen Datenerfassung</strong></p>
 
+<p><strong>Widerspruch gegen Datenerfassung</strong></p>
 <p>Sie k&ouml;nnen
 die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf
-folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, das die zuk&uuml;nftige Erfassung
-Ihrer Daten beim Besuch dieser Website verhindert:
-<a href="javascript:gaOptout();">Google Analytics deaktivieren</a>.</p>
+folgenden Link klicken: <a href="javascript:gaOptout();">Google Analytics deaktivieren</a>. Bei Click auf diesen Link wird ein Opt-Out-Cookie gesetzt, das die zuk&uuml;nftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert.</p>
 <p>Wenn Sie nach der Deaktivierung Google Analytics wieder reaktivieren möchten, können Sie das tun, indem Sie auf folgenden Link klicken: <a href="javascript:gaReactivate();">Google Analytics RE-aktivieren</a>
 </p>
-<p>
-Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter <a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a> bzw. unter <a href="https://www.google.de/intl/de/policies/">https://www.google.de/intl/de/policies/</a>. Wir weisen Sie darauf hin, dass auf dieser Website Google Analytics um den Code „anonymizeIp“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.
-</p>
+
 
 <h2>Datenschutzerkl&auml;rung f&uuml;r die Nutzung von Facebook-Plugins (Like-
 Button)</h2> <p>Auf unseren Seiten sind Plugins des sozialen Netzwerks
