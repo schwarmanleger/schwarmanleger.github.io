@@ -1,13 +1,49 @@
 [{
+	"name":"EXPORO: Porta Nova",
+	"url":"https://exporo.de/projekt/porta-nova",
+	"zins":"5,5%",
+	"dauer":"2,5 J.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für den Umbau eines Kasernengeländes in Triers zu einem Stadtquartier, bestehend aus 12 einzelnen Wohngebäuden, einem Appartmenthaus und einem Hotel.",
+	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 07.11.2019 (ca. 30 Monate) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"EXPORO: Alarichstrasse",
+	"url":"https://exporo.de/projekt/alarichstrasse",
+	"zins":"5.5%",
+	"dauer":"23 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Aufwertung einer Bestandsimmobilie in Berlin.",
+	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 15.05.2019 (ca. 23 Monate) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"",
+	"url":"",
+	"zins":"",
+	"dauer":"",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"",
+	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
+},{
 	"name":"SEEDMATCH: \"ASKANIA Uhrenmanufaktur\"",
 	"url":"https://www.seedmatch.de/startups/askania",
-	"zins":"8,0% + X",
+	"zins":"8,0% + Bonuszins",
 	"dauer":"4,5 J.",
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Partiarisches Nachrangdarlehen für Finanzierung von neuen Verkaufspunkten, Produkterweiterung, Vertrieb und Online-Marketing der ASKANIA Uhrenmanufaktur.",
 	"konditionen":"8,0% p.a. Zinsen (halbjährlich) + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeit: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - Ab 250 Euro"
 },{
+	"name":"SEEDMATCH: McWellness",
+	"url":"https://www.seedmatch.de/startups/mcwellness",
+	"zins":"8,0% + Bonuszins",
+	"dauer":"4,5 J",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Partiarisches Nachrangdarlehen für Finanzierung weiterer Filialen.",
+	"konditionen":"Zinsen: 8,0% p.a. Zinsen + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeit: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - Ab 250 Euro"
+	},{
 	"name":"BERGFÜRST: \"Soleada 35\"",
 	"url":"https://de.bergfuerst.com/immobilien/soleada",
 	"zins":"7,0%",
@@ -17,7 +53,7 @@
 	"zusammenfassung":"Besichertes Bankdarlehen für Modernisierung einer mediterranen Luxus-Villa auf Mallorca.",
 	"konditionen":"7,0% p.a. Zinsen (halbjährlich) - Laufzeit: 31.12.2018 (ca. 1,5 Jahre)  - Tilgung: endfällig - Ab 10 Euro"
 },{
-	"name":"EXPORO.DE: Schlosscarree Hepberg",
+	"name":"EXPORO: Schlosscarree Hepberg",
 	"url":"https://exporo.de/projekt/schlosscarree-hepberg",
 	"zins":"5.0%",
 	"dauer":"12 Mo.",
@@ -26,7 +62,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Sanierung eines ehemaligen, denkmalgeschützten Schlosses inkl. Umbau zu Wohnungen sowie Neubau von weiteren Wohneinheiten.",
 	"konditionen":"Zinsen: 5,0 % p.a. (endfällig) - Laufzeit: 30.03.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO.DE: Meinstein Isartal",
+	"name":"EXPORO: Meinstein Isartal",
 	"url":"https://exporo.de/projekt/meinstein-isartal",
 	"zins":"6.0%",
 	"dauer":"25 Mo.",
@@ -35,7 +71,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Neubau von drei Mehrfamilienhäusern im Einzugsgebiet von München.",
 	"konditionen":"6.0% p.a. (endfällig) - Laufzeit: 30.04.2019 (ca. 25 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO.DE: Brühlstrasse",
+	"name":"EXPORO: Brühlstrasse",
 	"url":"https://exporo.de/projekt/bruehlstrasse",
 	"zins":"5.5%",
 	"dauer":"14 Mo.",
@@ -53,7 +89,7 @@
 	"zusammenfassung":"Besichertes Bankdarlehen für Erweiterung eines Immobilienportfolios (Bestandsimmobilien) in Gera.",
 	"konditionen":"6,0% p.a. Zinsen (halbjährlich) - Laufzeit: 31.05.2020 (ca. 3 Jahre)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO.DE: \"Joliot Curie Platz\"",
+	"name":"EXPORO: \"Joliot Curie Platz\"",
 	"url":"https://exporo.de/projekt/joliot-curie-platz",
 	"zins":"4,5%",
 	"dauer":"16 Mo.",
@@ -62,7 +98,7 @@
 	"zusammenfassung":"Nachrang-Darlehen für Sanierung einer Wohn-Immobilie in Halle (Saale).",
 	"konditionen":"4,5% p.a. Zinsen (endfällig) - Laufzeit: 31.07.2018 (ca. 16 Monate)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO.DE: \"Pfaffenhausen\"",
+	"name":"EXPORO: \"Pfaffenhausen\"",
 	"url":"https://exporo.de/projekt/pfaffenhofen",
 	"zins":"4,75%",
 	"dauer":"14 Mo.",
@@ -71,7 +107,7 @@
 	"zusammenfassung":"Nachrang-Darlehen für Umbau & Sanierung einer Bestandsimmobilie nahe Ingolstadt.",
 	"konditionen":"4,75% p.a. Zinsen (endfällig) - Laufzeit: 30.06.2018 (ca. 14 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
-	"name":"EXPORO.DE: Wohnpark Langen",
+	"name":"EXPORO: Wohnpark Langen",
 	"url":"https://exporo.de/projekt/wohnpark-langen",
 	"zins":"5.5%",
 	"dauer":"21 Mo.",
@@ -80,7 +116,7 @@
 	"zusammenfassung":"Nachrangdarlehen für die Realisierung von fünf Mehrfamilienhäusern in Langen (Nahe FFM).",
 	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 30.11.2018 (ca. 21 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO.DE: Karasstrasse",
+	"name":"EXPORO: Karasstrasse",
 	"url":"https://exporo.de/projekt/karasstrasse",
 	"zins":"6.0%",
 	"dauer":"26 Mo.",
@@ -89,7 +125,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Entwicklung von zwei Neubaugebäuden mit ca. 43 barrierefreien Wohnungen zum betreuten Wohnen in Dresden-Blasewitz.",
 	"konditionen":"Zinsen: 6,0 % p.a. (endfällig) - Laufzeit: 30.06.2019 (ca. 26 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"	
 },{
-	"name":"EXPORO.DE: Stahlgruberring",
+	"name":"EXPORO: Stahlgruberring",
 	"url":"https://exporo.de/projekt/stahlgruberring",
 	"zins":"5.5%",
 	"dauer":"12 Mo.",
@@ -98,7 +134,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Kauf eines Grundstücks in München-Riem, auf dem Hotelgebäude darauf errichtet werden kann",
 	"konditionen":"Zinsen: 5.5% p.a. (endfällig) - Laufzeit: 31.05.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
-	"name":"BERGFÜRST.DE: Santa Ponsa",
+	"name":"BERGFÜRST: Santa Ponsa",
 	"url":"https://de.bergfuerst.com/immobilien/santa-ponsa",
 	"zins":"7,0%",
 	"dauer":"18 Mo.",
@@ -107,7 +143,7 @@
 	"zusammenfassung":"Besichertes Darlehen für Luxusvilla im Südwesten Mallorcas.",
 	"konditionen":"Zinsen: 7,0 % p.a. (halbjährlich) - Laufzeit: 31.10.2018 (ca. 18 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
-	"name":"BERGFÜRST.DE: Wohnpark Mendig",
+	"name":"BERGFÜRST: Wohnpark Mendig",
 	"url":"https://de.bergfuerst.com/immobilien/wohnpark-mendig",
 	"zins":"6,5%",
 	"dauer":"18 Mo.",
@@ -116,7 +152,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Teilsanierung eines Wohnparks in Mendig, Nahe Koblenz",
 	"konditionen":"Zinsen: 6,5 % p.a. (halbjährlich) - Laufzeit: 10.08.2018 (18 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
-	"name":"BERGFÜRST.DE: Stuttgart Neckarstraße",
+	"name":"BERGFÜRST: Stuttgart Neckarstraße",
 	"url":"https://de.bergfuerst.com/immobilien/stuttgart-neckarstrasse",
 	"zins":"6,0%",
 	"dauer":"2 J.",
@@ -129,17 +165,8 @@
 	"url":"",
 	"zins":"",
 	"dauer":"",
-	"status":"",
-	"status_css":"",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
 	"zusammenfassung":"",
-	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
-	},{
-	"name":"",
-	"url":"",
-	"zins":"",
-	"dauer":"",
-	"status":"FINANZIERT",
-	"status_css":"status_financed",
-	"zusammenfassung":"",
-	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
 }]
