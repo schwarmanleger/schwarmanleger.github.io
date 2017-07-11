@@ -1,5 +1,5 @@
 [{
-	"name":"EXPORO: Porta Nova",
+	"name":"EXPORO: Porta Nova (Trier)",
 	"url":"https://exporo.de/projekt/porta-nova",
 	"zins":"5,5%",
 	"dauer":"2,5 J.",
@@ -8,7 +8,16 @@
 	"zusammenfassung":"Nachrangdarlehen für den Umbau eines Kasernengeländes in Triers zu einem Stadtquartier, bestehend aus 12 einzelnen Wohngebäuden, einem Appartmenthaus und einem Hotel.",
 	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 07.11.2019 (ca. 30 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
-	"name":"EXPORO: Alarichstrasse",
+	"name":"EXPORO: Berliner Strasse (Wiesbaden)",
+	"url":"https://exporo.de/projekt/berliner-strasse",
+	"zins":"5%",
+	"dauer":"3 J.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen zur Finanzierung einer Bestandsimmobilie mit dem Ziel der Rückführung des Investments aus den Mietüberschüssen und dem Verkauf des Projektes. Derzeitiger Mieter ist die Landeshauptstadt Wiesbaden.",
+	"konditionen":"Zinsen: 5.0% (Jährliche Zinsauszahlung zum 30.06.)  - Laufzeit: 29.05.2020 (ca. 36 Monate) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"EXPORO: Alarichstrasse (Berlin)",
 	"url":"https://exporo.de/projekt/alarichstrasse",
 	"zins":"5.5%",
 	"dauer":"23 Mo.",
@@ -16,6 +25,24 @@
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für die Aufwertung einer Bestandsimmobilie in Berlin.",
 	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 15.05.2019 (ca. 23 Monate) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"DAGOBERTINVEST: Wohnhausanlage in Münchendorf bei Wien",
+	"url":"https://www.dagobertinvest.at/crowdfunding-immobilie-dns-muenchendorf.html?referrer=15146",
+	"zins":"6,8%",
+	"dauer":"24 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Immobilienprojekts (2 Bauabschnitte mit je 7 Wohnungen) im Wiener Speckgürtel.",
+	"konditionen":"Zinsen: 6,8% p.a. (endfällig) - Laufzeit: 24 Monate (ca. 07/2019) - Tilgung: endfällig - Ab 250 Euro"
+},{
+	"name":"DAGOBERTINVEST: Wohnhausanlage in Fischamend bei Wien",
+	"url":"https://www.dagobertinvest.at/crowdfunding-fx-immo-immobilie-fischamend.html?referrer=15146",
+	"zins":"6,85%",
+	"dauer":"22 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Immobilienprojekts (19 Wohnungen) in Fischamend bei Wien.",
+	"konditionen":"Zinsen: 6,85% p.a. - Laufzeit: 22 Monate (ca. 05/2019) - Tilgung: endfällig - Ab 250 Euro"
 },{
 	"name":"",
 	"url":"",
@@ -44,7 +71,7 @@
 	"zusammenfassung":"Partiarisches Nachrangdarlehen für Finanzierung weiterer Filialen.",
 	"konditionen":"Zinsen: 8,0% p.a. Zinsen + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeit: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - Ab 250 Euro"
 	},{
-	"name":"BERGFÜRST: \"Soleada 35\"",
+	"name":"BERGFÜRST: \"Soleada 35\" (Mallorca)",
 	"url":"https://de.bergfuerst.com/immobilien/soleada",
 	"zins":"7,0%",
 	"dauer":"18 Mo.",
@@ -53,7 +80,7 @@
 	"zusammenfassung":"Besichertes Bankdarlehen für Modernisierung einer mediterranen Luxus-Villa auf Mallorca.",
 	"konditionen":"7,0% p.a. Zinsen (halbjährlich) - Laufzeit: 31.12.2018 (ca. 1,5 Jahre)  - Tilgung: endfällig - Ab 10 Euro"
 },{
-	"name":"EXPORO: Schlosscarree Hepberg",
+	"name":"EXPORO: Schlosscarree Hepberg (bei Ingolstadt)",
 	"url":"https://exporo.de/projekt/schlosscarree-hepberg",
 	"zins":"5.0%",
 	"dauer":"12 Mo.",
@@ -62,7 +89,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Sanierung eines ehemaligen, denkmalgeschützten Schlosses inkl. Umbau zu Wohnungen sowie Neubau von weiteren Wohneinheiten.",
 	"konditionen":"Zinsen: 5,0 % p.a. (endfällig) - Laufzeit: 30.03.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO: Meinstein Isartal",
+	"name":"EXPORO: Meinstein Isartal (Bayern)",
 	"url":"https://exporo.de/projekt/meinstein-isartal",
 	"zins":"6.0%",
 	"dauer":"25 Mo.",
@@ -71,7 +98,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Neubau von drei Mehrfamilienhäusern im Einzugsgebiet von München.",
 	"konditionen":"6.0% p.a. (endfällig) - Laufzeit: 30.04.2019 (ca. 25 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO: Brühlstrasse",
+	"name":"EXPORO: Brühlstrasse (Frankfurt a.M.)",
 	"url":"https://exporo.de/projekt/bruehlstrasse",
 	"zins":"5.5%",
 	"dauer":"14 Mo.",
@@ -80,7 +107,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Immobilienprojekt im Einzugsgebiet von Frankfurt am Main.",
 	"konditionen":"5.5% p.a. Zinsen (endfällig) - Laufzeit: 30.06.2018 (ca. 14 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"BERGFÜRST: \"Gera³\"",
+	"name":"BERGFÜRST: \"Gera³\" (Thüringen)",
 	"url":"https://de.bergfuerst.com/immobilien/gera",
 	"zins":"6,0%",
 	"dauer":"36 Mo.",
@@ -89,7 +116,7 @@
 	"zusammenfassung":"Besichertes Bankdarlehen für Erweiterung eines Immobilienportfolios (Bestandsimmobilien) in Gera.",
 	"konditionen":"6,0% p.a. Zinsen (halbjährlich) - Laufzeit: 31.05.2020 (ca. 3 Jahre)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO: \"Joliot Curie Platz\"",
+	"name":"EXPORO: \"Joliot Curie Platz\" (Halle/Salle)",
 	"url":"https://exporo.de/projekt/joliot-curie-platz",
 	"zins":"4,5%",
 	"dauer":"16 Mo.",
@@ -98,7 +125,7 @@
 	"zusammenfassung":"Nachrang-Darlehen für Sanierung einer Wohn-Immobilie in Halle (Saale).",
 	"konditionen":"4,5% p.a. Zinsen (endfällig) - Laufzeit: 31.07.2018 (ca. 16 Monate)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO: \"Pfaffenhausen\"",
+	"name":"EXPORO: \"Pfaffenhausen\" (nahe Ingolstadt)",
 	"url":"https://exporo.de/projekt/pfaffenhofen",
 	"zins":"4,75%",
 	"dauer":"14 Mo.",
@@ -107,7 +134,7 @@
 	"zusammenfassung":"Nachrang-Darlehen für Umbau & Sanierung einer Bestandsimmobilie nahe Ingolstadt.",
 	"konditionen":"4,75% p.a. Zinsen (endfällig) - Laufzeit: 30.06.2018 (ca. 14 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
-	"name":"EXPORO: Wohnpark Langen",
+	"name":"EXPORO: Wohnpark Langen (Nahe FFM)",
 	"url":"https://exporo.de/projekt/wohnpark-langen",
 	"zins":"5.5%",
 	"dauer":"21 Mo.",
@@ -116,7 +143,7 @@
 	"zusammenfassung":"Nachrangdarlehen für die Realisierung von fünf Mehrfamilienhäusern in Langen (Nahe FFM).",
 	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 30.11.2018 (ca. 21 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
-	"name":"EXPORO: Karasstrasse",
+	"name":"EXPORO: Karasstrasse (Dresden)",
 	"url":"https://exporo.de/projekt/karasstrasse",
 	"zins":"6.0%",
 	"dauer":"26 Mo.",
@@ -125,7 +152,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Entwicklung von zwei Neubaugebäuden mit ca. 43 barrierefreien Wohnungen zum betreuten Wohnen in Dresden-Blasewitz.",
 	"konditionen":"Zinsen: 6,0 % p.a. (endfällig) - Laufzeit: 30.06.2019 (ca. 26 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"	
 },{
-	"name":"EXPORO: Stahlgruberring",
+	"name":"EXPORO: Stahlgruberring (München)",
 	"url":"https://exporo.de/projekt/stahlgruberring",
 	"zins":"5.5%",
 	"dauer":"12 Mo.",
@@ -134,7 +161,7 @@
 	"zusammenfassung":"Nachrangdarlehen für Kauf eines Grundstücks in München-Riem, auf dem Hotelgebäude darauf errichtet werden kann",
 	"konditionen":"Zinsen: 5.5% p.a. (endfällig) - Laufzeit: 31.05.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
-	"name":"BERGFÜRST: Santa Ponsa",
+	"name":"BERGFÜRST: Santa Ponsa (Mallorca)",
 	"url":"https://de.bergfuerst.com/immobilien/santa-ponsa",
 	"zins":"7,0%",
 	"dauer":"18 Mo.",
@@ -143,7 +170,7 @@
 	"zusammenfassung":"Besichertes Darlehen für Luxusvilla im Südwesten Mallorcas.",
 	"konditionen":"Zinsen: 7,0 % p.a. (halbjährlich) - Laufzeit: 31.10.2018 (ca. 18 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
-	"name":"BERGFÜRST: Wohnpark Mendig",
+	"name":"BERGFÜRST: Wohnpark Mendig (Nahe Koblenz)",
 	"url":"https://de.bergfuerst.com/immobilien/wohnpark-mendig",
 	"zins":"6,5%",
 	"dauer":"18 Mo.",
