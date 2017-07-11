@@ -31,10 +31,17 @@ check_this_out: http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-t
 	{% endif %}
 	{% endfor %}
 	
-	<div class="kleintext">Zuletzt aktualisiert: {{ site.time | date: '%d.%m.%Y' }}</div>
+	<div class="kleintext">Zuletzt aktualisiert: {{ site.time | date: '%d.%m.%Y' }} - Alle Angaben ohne Gewähr - Irrtümer vorbehalten.</div>
 	<div class="kleintext">
-		<p>
-			Haftungsausschluss: Die Inhalte dieser Seite dienen ausschließlich der Information und stellen nicht eine Anlageberatung oder sonstige Empfehlung im Sinne des Wertpapierhandelsgesetzes dar. Die auf dieser Seite bereit gestellten Informationen sollen nicht als Aufforderung verstanden werden, ein Geschäft oder eine Transaktion einzugehen. Alle Angaben ohne Gewähr - Irrtümer vorbehalten. Einige der externen Links sind sogenannte Affiliate-Links. Unseren vollständigen Disclaimer finden sie <a href="/disclaimer/">hier</a>.
+		<p>Bitte beachten Sie den Hinweis entsprechend § 12 Abs. 2 Vermögensanlagengesetz: Der Erwerb dieser Vermögensanlagen ist mit erheblichen Risiken verbunden und kann zum vollständigen Verlust des eingesetzten Vermögens führen.</p>
+
+		<p>Der Betreiber der Website SchwarmAnleger.de ist nicht Anbieter dieser Vermögensanlagen. Die Anbieter der Vermögensanlagen nutzen die Möglichkeit, diese über die hier verlinkten Plattformen zu vertreiben. Einige der externen Links sind sogenannte Affiliate-Links.</p>
+
+		<p>Die Webseite SchwarmAnleger.de enthält keine Aufforderung zur Abgabe eines Angebots, zur Zeichnung einer Vermögensanlagen oder zum Abschluss eines Vertrages über die Vermögensanlagen.</p>
+
+		<p>Die Inhalte dieser Seite dienen ausschließlich der Information und stellen nicht eine Anlageberatung oder sonstige Empfehlung im Sinne des Wertpapierhandelsgesetzes dar. Die auf dieser Seite bereit gestellten Informationen sollen nicht als Aufforderung verstanden werden, ein Geschäft oder eine Transaktion einzugehen.</p>
+		
+		<p>Unseren vollständigen Disclaimer finden sie <a href="/disclaimer/">hier</a>.
 		</p>
 	</div>
 </div>
