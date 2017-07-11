@@ -31,11 +31,10 @@ check_this_out: http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-t
 	{% endif %}
 	{% endfor %}
 	
-	<div class="kleintext">Alle Angaben ohne Gewähr</div>
+	<div class="kleintext">Zuletzt aktualisiert: {{ site.time | date: '%d.%m.%Y' }}</div>
 	<div class="kleintext">
 		<p>
-			Haftungsausschluss: Die Inhalte dieser Seite dienen ausschließlich der Information und stellen nicht eine Anlageberatung oder sonstige Empfehlung im Sinne des Wertpapierhandelsgesetzes dar. Die auf dieser Seite bereit gestellten Informationen sollen nicht als Aufforderung verstanden werden, ein Geschäft oder eine Transaktion einzugehen. Irrtümer vorbehalten.
-			Unseren vollständigen Disclaimer finden sie <a href="/disclaimer/">hier</a>.
+			Haftungsausschluss: Die Inhalte dieser Seite dienen ausschließlich der Information und stellen nicht eine Anlageberatung oder sonstige Empfehlung im Sinne des Wertpapierhandelsgesetzes dar. Die auf dieser Seite bereit gestellten Informationen sollen nicht als Aufforderung verstanden werden, ein Geschäft oder eine Transaktion einzugehen. Alle Angaben ohne Gewähr - Irrtümer vorbehalten. Einige der externen Links sind sogenannte Affiliate-Links. Unseren vollständigen Disclaimer finden sie <a href="/disclaimer/">hier</a>.
 		</p>
 	</div>
 </div>
