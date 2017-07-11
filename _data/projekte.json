@@ -1,8 +1,17 @@
 [{
+	"name":"ZINSLAND: Gemeindeamtsstrasse (Leipzig)",
+	"url":"https://www.zinsland.de/projekte/gemeindeamtsstrasse-leipzig",
+	"zins":"6,5%",
+	"dauer":"18 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Neubauprojekts von 8 Wohneinheiten im Leipziger Szenebezirk Altlindenau.",
+	"konditionen":"Zinsen: 6,5% (endfällig) - Laufzeit: 16.12.2018 (18 Monate) - Tilgung: endfällig - Ab 500 Euro"
+},{
 	"name":"EXPORO: Porta Nova (Trier)",
 	"url":"https://exporo.de/projekt/porta-nova",
 	"zins":"5,5%",
-	"dauer":"2,5 J.",
+	"dauer":"30 Mo.",
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für den Umbau eines Kasernengeländes in Triers zu einem Stadtquartier, bestehend aus 12 einzelnen Wohngebäuden, einem Appartmenthaus und einem Hotel.",
@@ -11,7 +20,7 @@
 	"name":"EXPORO: Berliner Strasse (Wiesbaden)",
 	"url":"https://exporo.de/projekt/berliner-strasse",
 	"zins":"5%",
-	"dauer":"3 J.",
+	"dauer":"36 Mo.",
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen zur Finanzierung einer Bestandsimmobilie mit dem Ziel der Rückführung des Investments aus den Mietüberschüssen und dem Verkauf des Projektes. Derzeitiger Mieter ist die Landeshauptstadt Wiesbaden.",
