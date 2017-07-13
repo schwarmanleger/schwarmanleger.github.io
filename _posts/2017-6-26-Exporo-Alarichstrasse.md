@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 26.Juni 2017 - Exporo startet das Projekt "Alarichstrasse"
+title: 26.Juni 2017 - Exporo startet das Projekt 'Alarichstrasse'
 laufzeit: 23 Monate
 rendite: 5,5% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
 ---
 
-<p>Die Plattform Exporo hat am 26.06.17 das Projekt "Alarichstrasse" gestartet.</p>
+<p>Die Plattform Exporo hat am 26.06.17 das Projekt 'Alarichstrasse' gestartet.</p>
 
 <p>Bei dem Investmentangebot handelt es sich um ein Nachrangdarlehen für die Aufwertung einer Bestandsimmobilie in Berlin.</p>
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 1.Juni 2017 - Exporo startet das Projekt "Berliner Strasse"
+title: 1.Juni 2017 - Exporo startet das Projekt 'Berliner Strasse'
 laufzeit: 36 Monate
 rendite: 5,0% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
 ---
 
-<p>Die Plattform Exporo hat am 01.06.17 das Projekt "Berliner Strasse" gestartet.</p>
+<p>Die Plattform Exporo hat am 01.06.17 das Projekt 'Berliner Strasse' gestartet.</p>
 
 <p>Bei dem Investmentangebot handelt es sich um ein Nachrangdarlehen zur Finanzierung einer Bestandsimmobilie mit dem Ziel der Rückführung des Investments aus den Mietüberschüssen und dem Verkauf des Projektes. Derzeitiger Mieter ist die Landeshauptstadt Wiesbaden.</p>
 
