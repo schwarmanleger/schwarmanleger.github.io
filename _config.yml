@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: schwarmanleger@gmail.com
-  facebook: 
+  facebook: SchwarmAnleger
   flickr:
   github: 
   instagram:
@@ -37,7 +37,10 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# LIVE:
 google_analytics: UA-99679346-1
+# LOCALHOST:
+#google_analytics: UA-99679346-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
