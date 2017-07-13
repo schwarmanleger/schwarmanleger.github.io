@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 20.Mai 2017 - Bergfürst startet das Projekt "Gera"
+title: 20.Mai 2017 - Bergfürst startet das Projekt Gera3
 laufzeit: 3 Jahre
 rendite: 6,0% p.a.
 zinsfaelligkeit:  halbjährlich jedes Jahr zum 30.06. und 31.12.
 categories: [abc, def]
 ---
 
-<p>Die Plattform Bergfürst hat am 20.05.17 das Projekt "Gera³" gestartet.</p>
+<p>Die Plattform Bergfürst hat am 20.05.17 das Projekt Gera³ gestartet.</p>
 
 <p>Bei dem Investmentangebot handelt es sich um drei Mehrfamilienhäuser mit insgesamt 22 Wohneinheiten, einer Gewerbeeinheit und einer Fläche von 1.545 m²</p>
 
