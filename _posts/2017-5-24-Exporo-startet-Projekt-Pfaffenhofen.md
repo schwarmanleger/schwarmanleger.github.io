@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 24.Mai 2017 - Exporo startet das Projekt "Pfaffenhofen"
+title: 24.Mai 2017 - Exporo startet das Projekt Pfaffenhofen
 laufzeit: 14 Monate
 rendite: 4,75% p.a.
 zinsfaelligkeit: endfällig
 categories: [123, 345]
 ---
 
-<p>Die Plattform exporo.com hat am 24.05.17 das Projekt “Pfaffenhofen" gestartet.</p>
+<p>Die Plattform exporo.com hat am 24.05.17 das Projekt 'Pfaffenhofen' gestartet.</p>
 
 {% comment %}
 <span style="background-color: blue; margin:10px; padding:10px; color: white;"><b>Rendite:</b> 4,75 % p. a. (endfällig)</span>
