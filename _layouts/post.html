@@ -12,26 +12,28 @@ layout: default
   {% endif %}
 {% endcomment %}
 
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }} 
 
   {% if post.rendite %}
-    <button>Zinssatz: {{post.rendite}}</button>
+    - {{post.rendite}}
   {% elsif page.rendite %}
-    <button>Zinssatz: {{page.rendite}}</button>
+    - {{page.rendite}}
   {% endif %}
 
   {% if post.laufzeit %}
-      <button>Laufzeit: {{post.laufzeit}}</button>
+      - Laufzeit: {{post.laufzeit}}
   {% elsif page.laufzeit %}
-    <button>Laufzeit: {{page.laufzeit}}</button>
+    - Laufzeit: {{page.laufzeit}}
   {% endif %}
 
-  
+<!--  
   {% if post.zinsfaelligkeit %}
-    <button>Zinsfälligkeit: {{post.zinsfaelligkeit}}</button>
+    - Zinsfälligkeit: {{post.zinsfaelligkeit}}
   {% elsif page.zinsfaelligkeit %}
-    <button>Zinsfälligkeit: {{page.zinsfaelligkeit}}</button>
+    - Zinsfälligkeit: {{page.zinsfaelligkeit}}
   {% endif %}
+-->
+  </h1>
 
   <div class="date" style="text-align: right;">
     {{ page.date | date: "%d.%m.%y" }}
