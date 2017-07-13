@@ -14,18 +14,19 @@ layout: default
 
   <h1>{{ page.title }}</h1>
 
+  {% if post.rendite %}
+    <button>Zinssatz: {{post.rendite}}</button>
+  {% elsif page.rendite %}
+    <button>Zinssatz: {{page.rendite}}</button>
+  {% endif %}
+
   {% if post.laufzeit %}
       <button>Laufzeit: {{post.laufzeit}}</button>
   {% elsif page.laufzeit %}
     <button>Laufzeit: {{page.laufzeit}}</button>
   {% endif %}
 
-  {% if post.rendite %}
-    <button>Rendite: {{post.rendite}}</button>
-  {% elsif page.rendite %}
-    <button>Rendite: {{page.rendite}}</button>
-  {% endif %}
-
+  
   {% if post.zinsfaelligkeit %}
     <button>Zinsfälligkeit: {{post.zinsfaelligkeit}}</button>
   {% elsif page.zinsfaelligkeit %}
