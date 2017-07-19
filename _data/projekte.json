@@ -1,4 +1,22 @@
 [{
+	"name":"EXPORO: Hotel am Rebstockpark (Frankfurt a.M.)",
+	"url":"https://exporo.de/projekt/hotel-rebstockpark",
+	"zins":"6,0%",
+	"dauer":"24 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung des Kaufs eines Grundstücks, welches zum Bau eines Hotel-Neubaus mit ca. 13.170 m² Nutzfläche und ca. 430 Zimmern projektiert ist. Lage: Frankfurt-Bockenheim in der Nähe des Messegeländes, ICE-Bahnhof und Naherholungszielen.",
+	"konditionen":"Zinsen: 6,0% (endfällig) - Laufzeit: 30.06.2019 (ca. 24 Monate) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"ZINSLAND: Ulrich-von-Huttenstrasse (München)",
+	"url":"https://www.zinsland.de/projekte/ulrich-von-huttenstrasse",
+	"zins":"6,5%",
+	"dauer":"18 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung des Neubau eines zweigeschossigen Mehrfamilienhauses mit 545,81 qm Wohnfläche, Rundum-Dachterrasse und zusätzlicher Tiefgarage in München (Ramersdorf-Perlach)",
+	"konditionen":"Zinsen: 6,5% (endfällig) - Laufzeit: 12.01.2019 (18 Monate) - Tilgung: endfällig - Ab 500 Euro"
+},{
 	"name":"ZINSLAND: Gemeindeamtsstrasse (Leipzig)",
 	"url":"https://www.zinsland.de/projekte/gemeindeamtsstrasse-leipzig",
 	"zins":"6,5%",
@@ -46,12 +64,12 @@
 },{
 	"name":"DAGOBERTINVEST: Wohnhausanlage in Fischamend bei Wien",
 	"url":"https://www.dagobertinvest.at/crowdfunding-fx-immo-immobilie-fischamend.html?referrer=15146",
-	"zins":"6,85%",
+	"zins":"7,25%",
 	"dauer":"22 Mo.",
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Immobilienprojekts (19 Wohnungen) in Fischamend bei Wien.",
-	"konditionen":"Zinsen: 6,85% p.a. - Laufzeit: 22 Monate (ca. 05/2019) - Tilgung: endfällig - Ab 250 Euro"
+	"konditionen":"Zinsen: 7,25% p.a. - Laufzeit: 22 Monate (ca. 05/2019) - Tilgung: endfällig - Ab 250 Euro"
 },{
 	"name":"ZINSBAUSTEIN: WAVE waterside living berlin",
 	"url":"https://www.zinsbaustein.de/projekte/wave-waterside-living-berlin",
