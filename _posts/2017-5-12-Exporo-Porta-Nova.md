@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 12.Mai 2017 - Exporo startet das Projekt "Porta Nova"
+title: 12.Mai 2017 - Exporo startet das Projekt 'Porta Nova'
 laufzeit: 30 Monate
 rendite: 5,5% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
 ---
 
-<p>Die Plattform Exporo hat am 12.05.17 das Projekt "Porta Nova" gestartet.</p>
+<p>Die Plattform Exporo hat am 12.05.17 das Projekt 'Porta Nova' gestartet.</p>
 
 <p>Bei dem Investmentangebot handelt es sich um ein Nachrangdarlehen für den Umbau eines Kasernengeländes in Triers zu einem Stadtquartier, bestehend aus 12 einzelnen Wohngebäuden, einem Appartmenthaus und einem Hotel.</p>
 
