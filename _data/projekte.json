@@ -1,4 +1,13 @@
 [{
+	"name":"KAPILENDO: Haberl Vitaminbars & Trading GmbH (die Mischbar) in Nürnberg",
+	"url":"https://www.kapilendo.de/projekte/8ba451a6-c1f5-4b8a-a4ee-76bba117e7a5",
+	"zins":"8,5%",
+	"dauer":"4 Jahre",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für einen Finanzierungsmix, welcher zur  Modernisierung der bestehenden Filialen, Erweiterung der Hauptfiliale und Eröffnung einer neuen Filiale genutzt werden soll.",
+	"konditionen":"Zinsen: 8,5% p.a. (endfällig) + umsatzabhängiger Erfolgszins von bis zu 25% - Laufzeit: 09/2021 (48 Monate) - Tilgung: endfällig - Ab 100 Euro"
+},{
 	"name":"EXPORO: Hotel am Rebstockpark (Frankfurt a.M.)",
 	"url":"https://exporo.de/projekt/hotel-rebstockpark",
 	"zins":"6,0%",
