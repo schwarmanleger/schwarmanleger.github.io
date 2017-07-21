@@ -24,11 +24,11 @@ permalink: /plattformen/
     
     <div class="plattform_box">
       <div class="plattform_image">
-        <a href="https://www.exporo.de/" target="_blank"><img class="anbieterimage" src="/images/Exporo_Logo_auf_hell-300.png" alt="Exporo.de"></a>        
+        <a href="https://exporo.de/?a_aid=64268" target="_blank"><img class="anbieterimage" src="/images/Exporo_Logo_auf_hell-300.png" alt="Exporo.de"></a>        
       </div>
       <div class="platform_summary">
         <strong>EXPORO – <i>Einfach und direkt in Immobilien investieren</i></strong><br>        
-        <a title="www.exporo.de" href="https://www.exporo.de/" target="_blank">www.exporo.de</a><br>
+        <a title="www.exporo.de" href="https://exporo.de/?a_aid=64268" target="_blank">www.exporo.de</a><br>
         Einfach und direkt in interessante Immobilienprojekte investieren. Viele Projekte mit attraktiv kurzer Laufzeit. Schon ab 500 EUR.<br>        
       </div>
     </div>
