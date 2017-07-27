@@ -93,4 +93,4 @@ exclude:
 paginate: 3
 paginate_path: "/blog/page:num/"
 
-repository: ftan24269/ftan24269.github.io
+repository: schwarmanleger/schwarmanleger.github.io
