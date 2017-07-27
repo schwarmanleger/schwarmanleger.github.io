@@ -2,6 +2,7 @@
 layout: default
 title: Wissen
 permalink: /wissen/
+canonical_url: http://www.schwarmanleger.de/wissen/
 ---
 <!-- layout: page -->
   <div class="entry">

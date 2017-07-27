@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 permalink: /impressum/
+canonical_url: http://www.schwarmanleger.de/impressum/
 ---
 
 <h2>Angaben gemäß § 5 TMG:</h2>
