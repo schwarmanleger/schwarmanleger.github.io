@@ -6,7 +6,7 @@ rendite: 6,0% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
 externalurl: https://exporo.de/projekt/hotel-rebstockpark
-canonical_url: http://www.schwarmanleger.de/blog/2017/07/11/Exporo-Hotel-am-Rebstockpark.html
+canonical_url: http://schwarmanleger.de/blog/2017/07/11/Exporo-Hotel-am-Rebstockpark.html
 ---
 
 <p>Die Plattform Exporo hat am 11.07.17 das Projekt 'Hotel am Rebstockpark' gestartet.</p>

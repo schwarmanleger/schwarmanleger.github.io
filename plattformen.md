@@ -2,7 +2,7 @@
 layout: default
 title: Plattformen
 permalink: /plattformen/
-canonical_url: http://www.schwarmanleger.de/plattformen/
+canonical_url: http://schwarmanleger.de/plattformen/
 ---
   <div class="entry">
 {% comment %}

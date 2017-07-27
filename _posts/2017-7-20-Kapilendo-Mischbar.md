@@ -6,7 +6,7 @@ rendite: 8,5% p.a. + Erfolgszins
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
 externalurl: https://www.kapilendo.de/projekte/8ba451a6-c1f5-4b8a-a4ee-76bba117e7a5
-canonical_url: http://www.schwarmanleger.de/blog/2017/07/20/Kapilendo-Mischbar.html
+canonical_url: http://schwarmanleger.de/blog/2017/07/20/Kapilendo-Mischbar.html
 ---
 
 <p>Die Plattform Kapilendo startet am 20.07.17 das Projekt 'Haberl Vitaminbars & Trading GmbH' (die Mischbar in Nürnberg)'.</p>

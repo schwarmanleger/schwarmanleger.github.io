@@ -5,7 +5,7 @@ laufzeit: 4,5 Jahre
 rendite: 8,0% p.a. + X
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
-canonical_url: http://www.schwarmanleger.de/blog/2017/05/03/Seedmatch-Askania.html
+canonical_url: http://schwarmanleger.de/blog/2017/05/03/Seedmatch-Askania.html
 ---
 
 <p>Die Plattform Seedmatch hat am 23.03.17 das Projekt "ASKANIA" gestartet.</p>

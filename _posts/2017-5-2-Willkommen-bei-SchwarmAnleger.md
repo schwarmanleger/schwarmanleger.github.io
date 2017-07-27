@@ -2,7 +2,7 @@
 layout: post
 title: Willkommen zu SchwarmAnleger.de!
 categories: [abc, def]
-canonical_url: http://www.schwarmanleger.de/blog/2017/05/02/Willkommen-bei-SchwarmAnleger.html
+canonical_url: http://schwarmanleger.de/blog/2017/05/02/Willkommen-bei-SchwarmAnleger.html
 ---
 
 <p>Ich möchten Sie hiermit offiziell als Leser von SchwarmAnleger.de begrüssen - dem Informationsportal zum Thema Crowd-Funding.</p>

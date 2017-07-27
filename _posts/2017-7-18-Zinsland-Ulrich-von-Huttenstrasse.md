@@ -6,7 +6,7 @@ rendite: 6,5% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
 externalurl: https://www.zinsland.de/projekte/ulrich-von-huttenstrasse
-canonical_url: http://www.schwarmanleger.de/blog/2017/07/18/Zinsland-Ulrich-von-Huttenstrasse.html
+canonical_url: http://schwarmanleger.de/blog/2017/07/18/Zinsland-Ulrich-von-Huttenstrasse.html
 ---
 
 <p>Die Plattform Zinsland hat am 12.07.17 das Projekt 'Ulrich-von-Huttenstrasse' gestartet.</p>
