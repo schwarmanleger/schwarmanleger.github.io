@@ -3,6 +3,7 @@ layout: default
 title: Aktuelle Crowdfunding-Projekte
 permalink: /projekte/
 check_this_out: http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-tables/
+canonical_url: http://www.schwarmanleger.de/projekte/
 ---
 
 <h2>Projekte</h2>
@@ -12,7 +13,7 @@ check_this_out: http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-t
 	{% for projekt in site.data.projekte %}
 	{% if projekt.name != "" %}
 	<div class="ampstart-card ampstart-card-hover">
-		<div class="m0 px2 py1 mb2 i-amphtml-form">
+		<div class="m0 px2 py1 mb2">
 			<fieldset class="border-none p0 m0">
 			<div class="relative m10 p10 px2 pb2 ta-r fw-b">
 				<span class="mdl-chip"><span class="mdl-chip__text c-projprops" >{{ projekt.zins }}</span></span>
