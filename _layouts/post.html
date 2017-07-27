@@ -12,7 +12,11 @@ layout: default
   {% endif %}
 {% endcomment %}
 
+  {% if page.rendite %}
   <h1>{{page.rendite}} für {{page.laufzeit}} - {{ page.title }}</h1>
+  {% elsif page.title %}
+  <h1>{{ page.title }}</h1>
+  {% endif %}
 
   {% if post.rendite %}
     <button>Zinssatz: {{post.rendite}}</button>
@@ -33,7 +37,7 @@ layout: default
     <button>Zinsfälligkeit: {{page.zinsfaelligkeit}}</button>
   {% endif %}
 
-  <div class="date" style="text-align: right;">
+  <div class="date ta-r">
     {{ page.date | date: "%d.%m.%y" }}
   </div>
   
