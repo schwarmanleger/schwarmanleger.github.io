@@ -2,6 +2,7 @@
 layout: default
 title: Plattformen
 permalink: /plattformen/
+canonical_url: http://www.schwarmanleger.de/plattformen/
 ---
   <div class="entry">
 {% comment %}
@@ -12,7 +13,7 @@ permalink: /plattformen/
     <h3>Plattformen für Immobilien-Projekte</h3>
      <div class="plattform_box">
       <div class="plattform_image">
-        <a href="https://www.bergfuerst.com" target="_blank"><img class="anbieterimage" src="/images/bergfuerst-logo-dark-300-v3.png" alt="www.bergfuerst.de"></a>                
+        <a href="https://www.bergfuerst.com" target="_blank"><amp-img class="anbieterimage" src="/images/bergfuerst-logo-dark-300-v3.png" alt="www.bergfuerst.de" width="200" height="50"></amp-img></a>
       </div>
       <div class="platform_summary">
         <strong>Bergfürst – <i>"Neu denken, anders handeln."</i></strong><br />
@@ -24,7 +25,7 @@ permalink: /plattformen/
     
     <div class="plattform_box">
       <div class="plattform_image">
-        <a href="https://exporo.de/?a_aid=64268" target="_blank"><img class="anbieterimage" src="/images/Exporo_Logo_auf_hell-300.png" alt="Exporo.de"></a>        
+        <a href="https://exporo.de/?a_aid=64268" target="_blank"><amp-img class="anbieterimage" src="/images/Exporo_Logo_auf_hell-300.png" alt="Exporo.de" width="200" height="80"></amp-img></a>        
       </div>
       <div class="platform_summary">
         <strong>EXPORO – <i>Einfach und direkt in Immobilien investieren</i></strong><br>        
@@ -109,15 +110,15 @@ permalink: /plattformen/
 {% comment %}
     <h2>Crowdlending Plattformen (P2P Kredite)</h2>
     <div class="plattform_box">
-    <strong><a href="/anbieter/dago1/" target="_blank"><img class="size-full wp-image-791 alignleft" src="/images/dagobertinvest.jpg" alt="dagobertinvest" width="200"></a>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago1/" target="_blank"><img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></a></div>
+    <a href="/anbieter/dago1/" target="_blank"><amp-img class="size-full wp-image-791 alignleft" src="/images/dagobertinvest.jpg" alt="dagobertinvest" width="200"></amp-img></a><strong>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago1/" target="_blank"><amp-img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></amp-img></a></div>
     <h2>Klassische Crowdfunding Plattformen</h2>
     <div class="plattform_box">
-    <strong><a href="/anbieter/dago1/" target="_blank"><div class="anbieterimage alignleft">anbieterimage</div></a>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago1/" target="_blank"><img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></a></div>
+    <strong><a href="/anbieter/dago1/" target="_blank"><div class="anbieterimage alignleft">anbieterimage</div></a>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago1/" target="_blank"><amp-img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></amp-img></a></div>
     <div class="plattform_box">
-    <strong><a href="/anbieter/dago2/" target="_blank"><img class="size-full wp-image-791 alignleft" src="/images/dagobertinvest.jpg" alt="dagobertinvest" width="200"></a>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab X Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago2/" target="_blank"><img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></a></div>
+    <strong><a href="/anbieter/dago2/" target="_blank"><amp-img class="size-full wp-image-791 alignleft" src="/images/dagobertinvest.jpg" alt="dagobertinvest" width="200"></amp-img></a>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab X Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago2/" target="_blank"><amp-img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></amp-img></a></div>
     <h2>Kredit Plattformen (Crowdlending)</h2>
     <div class="plattform_box">
-    <strong><a href="/anbieter/dago1/" target="_blank"><div class="anbieterimage alignleft">anbieterimage</div></a>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago1/" target="_blank"><img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></a></div>
+    <strong><a href="/anbieter/dago1/" target="_blank"><div class="anbieterimage alignleft">anbieterimage</div></a>dagobertinvest</strong><br> <a title="www.dagobertinvest.at" href="https://www.dagobertinvest.at/" target="_blank">www.dagobertinvest.at</a><br> dagobertinvest ist eine Crowinvesting-Plattform aus Österreich, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.<br> <a href="/anbieter/dago1/" target="_blank"><amp-img class="alignnone size-full wp-image-777446" title="mehr Informationen" src="/images/mehr_infos.jpg" alt="mehr Infos" width="90"></amp-img></a></div>
 {% endcomment %}    
 
 
