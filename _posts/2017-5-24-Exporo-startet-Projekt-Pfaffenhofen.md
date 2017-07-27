@@ -5,6 +5,7 @@ laufzeit: 14 Monate
 rendite: 4,75% p.a.
 zinsfaelligkeit: endfällig
 categories: [123, 345]
+canonical_url: http://www.schwarmanleger.de/blog/2017/05/24/Exporo-startet-Projekt-Pfaffenhofen.html
 ---
 
 <p>Die Plattform exporo.com hat am 24.05.17 das Projekt 'Pfaffenhofen' gestartet.</p>

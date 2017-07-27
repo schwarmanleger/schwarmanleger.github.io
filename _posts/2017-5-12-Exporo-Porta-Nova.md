@@ -5,6 +5,7 @@ laufzeit: 30 Monate
 rendite: 5,5% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
+canonical_url: http://www.schwarmanleger.de/blog/2017/05/12/Exporo-Porta-Nova.html
 ---
 
 <p>Die Plattform Exporo hat am 12.05.17 das Projekt 'Porta Nova' gestartet.</p>
