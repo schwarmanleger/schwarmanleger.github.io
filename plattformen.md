@@ -65,11 +65,11 @@ canonical_url: http://schwarmanleger.de/plattformen/
     </div>
     <div class="plattform_box">
       <div class="plattform_name ta-c">
-        <a href="https://www.kapilendo.de" target="_blank">Kapilendo</a>        
+        <a href="https://www.kapilendo.de?partner=kap-b&kbid=7881&aid=pd01" target="_blank">Kapilendo</a>        
       </div>
       <div class="platform_summary">
         <strong>Kapilendo - <i>Direkte und verständliche Geldanlagen in deutsche Unternehmen</i></strong><br>        
-        <a title="www.kapilendo.de" href="https://www.kapilendo.de" target="_blank">www.kapilendo.de</a><br />
+        <a title="www.kapilendo.de" href="https://www.kapilendo.de?partner=kap-b&kbid=7881&aid=pd01" target="_blank">www.kapilendo.de</a><br />
         Crowdinvesting- und Crowdlending-Projekte für mittelständische Unternehmen und Startups mit Festzins von 2,49-11,99% p.a.<br>        
       </div>
     </div>        
