@@ -1,4 +1,49 @@
 [{
+	"name":"",
+	"url":"",
+	"zins":"",
+	"dauer":"",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"",
+	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"EXPORO: Weststrasse",
+	"url":"https://exporo.de/projekt/weststrasse?a_aid=64268",
+	"zins":"5,5%",
+	"dauer":"17 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung der Sanierung und Modernisierung eines 4-geschossigen Denkmalgebäudes in Chemnitz.",
+	"konditionen":"Zinsen: 5,5% p.a. (endfällig) - Laufzeit: ca. 17 Monate (31.12.2018) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"ZINSLAND: Ritterhöfe",
+	"url":"https://www.zinsland.de/projekte/ritterhoefe-teltow",
+	"zins":"6,0%",
+	"dauer":"24 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung der Sanierung eines Bestandsgebäudes in Teltow an der Stadtgrenze zu Berlin, mit dem Ziel dort Gewerbeflächen, Townhouses und Maisonette-Wohnungen mit Gartenanteil zu errichten. Zusätzlich Errichtung von zwei Neubauten mit circa 2.000 m² Neubau-Wohnfläche.",
+	"konditionen":"Zinsen: 6,0% (endfällig) - Laufzeit: 24 Monate - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"EXPORO: Elmshorner Strasse",
+	"url":"https://exporo.de/projekt/elmshorner-strasse?a_aid=64268",
+	"zins":"6,0%",
+	"dauer":"19 Mo.",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Neubaus von fünf Mehrfamilienhäusern in Pinneberg bei Hamburg.",
+	"konditionen":"Zinsen: 6,0% p.a. (endfällig) - Laufzeitende: 28.02.2019 (ca. 19 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+},{
+	"name":"BERGFÜRST: Fontane Center",
+	"url":"https://de.bergfuerst.com/immobilien/fontane-center",
+	"zins":"6,5% + X",
+	"dauer":"5 Jahre",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen für den Ankauf und Optimierung einer Wohn- und Gewerbeimmobilie in Königs Wusterhausen im Ballungsraum Berlin.",
+	"konditionen":"Zinsen: 6,5% p.a. (halbjährlich) + Chance auf einmaligen Bonus von 2 % - Laufzeit: 31.08.2022 (ca. 5 Jahre) - Tilgung: - Ab 10 Euro"
+},{
 	"name":"KAPILENDO: Haberl Vitaminbars & Trading GmbH (die Mischbar) in Nürnberg",
 	"url":"https://www.kapilendo.de/projekte/8ba451a6-c1f5-4b8a-a4ee-76bba117e7a5",
 	"zins":"8,5%",
@@ -6,7 +51,7 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für einen Finanzierungsmix, welcher zur  Modernisierung der bestehenden Filialen, Erweiterung der Hauptfiliale und Eröffnung einer neuen Filiale genutzt werden soll.",
-	"konditionen":"Zinsen: 8,5% p.a. (endfällig) + umsatzabhängiger Erfolgszins von bis zu 25% - Laufzeit: 09/2021 (48 Monate) - Tilgung: endfällig - Ab 100 Euro"
+	"konditionen":"Zinsen: 8,5% p.a. (endfällig) + umsatzabhängiger Erfolgszins von bis zu 25% - Laufzeitende: 09/2021 (48 Monate) - Tilgung: endfällig - Ab 100 Euro"
 },{
 	"name":"EXPORO: Hotel am Rebstockpark (Frankfurt a.M.)",
 	"url":"https://exporo.de/projekt/hotel-rebstockpark?a_aid=64268",
@@ -15,16 +60,16 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung des Kaufs eines Grundstücks, welches zum Bau eines Hotel-Neubaus mit ca. 13.170 m² Nutzfläche und ca. 430 Zimmern projektiert ist. Lage: Frankfurt-Bockenheim in der Nähe des Messegeländes, ICE-Bahnhof und Naherholungszielen.",
-	"konditionen":"Zinsen: 6,0% (endfällig) - Laufzeit: 30.06.2019 (ca. 24 Monate) - Tilgung: endfällig - Ab 500 Euro"
+	"konditionen":"Zinsen: 6,0% (endfällig) - Laufzeitende: 30.06.2019 (ca. 24 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"ZINSLAND: Ulrich-von-Huttenstrasse (München)",
 	"url":"https://www.zinsland.de/projekte/ulrich-von-huttenstrasse",
 	"zins":"6,5%",
 	"dauer":"18 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
-	"zusammenfassung":"Nachrangdarlehen für die Finanzierung des Neubau eines zweigeschossigen Mehrfamilienhauses mit 545,81 qm Wohnfläche, Rundum-Dachterrasse und zusätzlicher Tiefgarage in München (Ramersdorf-Perlach)",
-	"konditionen":"Zinsen: 6,5% (endfällig) - Laufzeit: 12.01.2019 (18 Monate) - Tilgung: endfällig - Ab 500 Euro"
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung des Neubau eines zweigeschossigen Mehrfamilienhauses mit 545,81 qm Wohnfläche, Rundum-Dachterrasse und zusätzlicher Tiefgarage in München (Ramersdorf-Perlach).",
+	"konditionen":"Zinsen: 6,5% (endfällig) - Laufzeitende: 12.01.2019 (18 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"ZINSLAND: Gemeindeamtsstrasse (Leipzig)",
 	"url":"https://www.zinsland.de/projekte/gemeindeamtsstrasse-leipzig",
@@ -33,7 +78,7 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Neubauprojekts von 8 Wohneinheiten im Leipziger Szenebezirk Altlindenau.",
-	"konditionen":"Zinsen: 6,5% (endfällig) - Laufzeit: 16.12.2018 (18 Monate) - Tilgung: endfällig - Ab 500 Euro"
+	"konditionen":"Zinsen: 6,5% (endfällig) - Laufzeitende: 16.12.2018 (18 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"EXPORO: Porta Nova (Trier)",
 	"url":"https://exporo.de/projekt/porta-nova?a_aid=64268",
@@ -42,7 +87,7 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für den Umbau eines Kasernengeländes in Triers zu einem Stadtquartier, bestehend aus 12 einzelnen Wohngebäuden, einem Appartmenthaus und einem Hotel.",
-	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 07.11.2019 (ca. 30 Monate) - Tilgung: endfällig - Ab 500 Euro"
+	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeitende: 07.11.2019 (ca. 30 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"EXPORO: Berliner Strasse (Wiesbaden)",
 	"url":"https://exporo.de/projekt/berliner-strasse?a_aid=64268",
@@ -60,7 +105,7 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Nachrangdarlehen für die Aufwertung einer Bestandsimmobilie in Berlin.",
-	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 15.05.2019 (ca. 23 Monate) - Tilgung: endfällig - Ab 500 Euro"
+	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeitende: 15.05.2019 (ca. 23 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"DAGOBERTINVEST: Wohnhausanlage in Münchendorf bei Wien",
 	"url":"https://www.dagobertinvest.at/crowdfunding-immobilie-dns-muenchendorf.html?referrer=15146",
@@ -87,7 +132,7 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Finanzierung eines Neubau-Projekts am Spreeufer im Berliner Szeneviertel Friedrichshain",
-	"konditionen":"Zinsen:  - Laufzeit: 13.02.2019 (ca. 19 Monate) - Tilgung: endfällig - Ab 500 Euro"
+	"konditionen":"Zinsen: 5,25% - Laufzeitende: 13.02.2019 (ca. 19 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"",
 	"url":"",
@@ -105,7 +150,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Partiarisches Nachrangdarlehen für Finanzierung von neuen Verkaufspunkten, Produkterweiterung, Vertrieb und Online-Marketing der ASKANIA Uhrenmanufaktur.",
-	"konditionen":"8,0% p.a. Zinsen (halbjährlich) + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeit: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - Ab 250 Euro"
+	"konditionen":"8,0% p.a. Zinsen (halbjährlich) + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeitende: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
 	"name":"SEEDMATCH: McWellness",
 	"url":"https://www.seedmatch.de/startups/mcwellness",
@@ -114,7 +159,7 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Partiarisches Nachrangdarlehen für Finanzierung weiterer Filialen.",
-	"konditionen":"Zinsen: 8,0% p.a. Zinsen + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeit: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - Ab 250 Euro"
+	"konditionen":"Zinsen: 8,0% p.a. Zinsen + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeitende: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - Ab 250 Euro"
 	},{
 	"name":"BERGFÜRST: \"Soleada 35\" (Mallorca)",
 	"url":"https://de.bergfuerst.com/immobilien/soleada",
@@ -123,7 +168,7 @@
 	"status":"INVESTIERBAR",
 	"status_css":"status_active",
 	"zusammenfassung":"Besichertes Bankdarlehen für Modernisierung einer mediterranen Luxus-Villa auf Mallorca.",
-	"konditionen":"7,0% p.a. Zinsen (halbjährlich) - Laufzeit: 31.12.2018 (ca. 1,5 Jahre)  - Tilgung: endfällig - Ab 10 Euro"
+	"konditionen":"7,0% p.a. Zinsen (halbjährlich) - Laufzeitende: 31.12.2018 (ca. 1,5 Jahre)  - Tilgung: endfällig - Ab 10 Euro"
 },{
 	"name":"EXPORO: Schlosscarree Hepberg (bei Ingolstadt)",
 	"url":"https://exporo.de/projekt/schlosscarree-hepberg?a_aid=64268",
@@ -132,7 +177,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für Sanierung eines ehemaligen, denkmalgeschützten Schlosses inkl. Umbau zu Wohnungen sowie Neubau von weiteren Wohneinheiten.",
-	"konditionen":"Zinsen: 5,0 % p.a. (endfällig) - Laufzeit: 30.03.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"Zinsen: 5,0 % p.a. (endfällig) - Laufzeitende: 30.03.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
 	"name":"EXPORO: Meinstein Isartal (Bayern)",
 	"url":"https://exporo.de/projekt/meinstein-isartal?a_aid=64268",
@@ -141,7 +186,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für Neubau von drei Mehrfamilienhäusern im Einzugsgebiet von München.",
-	"konditionen":"6.0% p.a. (endfällig) - Laufzeit: 30.04.2019 (ca. 25 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"6.0% p.a. (endfällig) - Laufzeitende: 30.04.2019 (ca. 25 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
 	"name":"EXPORO: Brühlstrasse (Frankfurt a.M.)",
 	"url":"https://exporo.de/projekt/bruehlstrasse?a_aid=64268",
@@ -150,7 +195,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für Immobilienprojekt im Einzugsgebiet von Frankfurt am Main.",
-	"konditionen":"5.5% p.a. Zinsen (endfällig) - Laufzeit: 30.06.2018 (ca. 14 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"5.5% p.a. Zinsen (endfällig) - Laufzeitende: 30.06.2018 (ca. 14 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
 	"name":"BERGFÜRST: \"Gera³\" (Thüringen)",
 	"url":"https://de.bergfuerst.com/immobilien/gera",
@@ -159,7 +204,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Besichertes Bankdarlehen für Erweiterung eines Immobilienportfolios (Bestandsimmobilien) in Gera.",
-	"konditionen":"6,0% p.a. Zinsen (halbjährlich) - Laufzeit: 31.05.2020 (ca. 3 Jahre)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"6,0% p.a. Zinsen (halbjährlich) - Laufzeitende: 31.05.2020 (ca. 3 Jahre)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
 	"name":"EXPORO: \"Joliot Curie Platz\" (Halle/Salle)",
 	"url":"https://exporo.de/projekt/joliot-curie-platz?a_aid=64268",
@@ -168,7 +213,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrang-Darlehen für Sanierung einer Wohn-Immobilie in Halle (Saale).",
-	"konditionen":"4,5% p.a. Zinsen (endfällig) - Laufzeit: 31.07.2018 (ca. 16 Monate)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"4,5% p.a. Zinsen (endfällig) - Laufzeitende: 31.07.2018 (ca. 16 Monate)  - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
 	"name":"EXPORO: \"Pfaffenhausen\" (nahe Ingolstadt)",
 	"url":"https://exporo.de/projekt/pfaffenhofen?a_aid=64268",
@@ -177,7 +222,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrang-Darlehen für Umbau & Sanierung einer Bestandsimmobilie nahe Ingolstadt.",
-	"konditionen":"4,75% p.a. Zinsen (endfällig) - Laufzeit: 30.06.2018 (ca. 14 Monate) - Tilgung: endfällig - Ab 500 Euro"
+	"konditionen":"4,75% p.a. Zinsen (endfällig) - Laufzeitende: 30.06.2018 (ca. 14 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"EXPORO: Wohnpark Langen (Nahe FFM)",
 	"url":"https://exporo.de/projekt/wohnpark-langen?a_aid=64268",
@@ -186,7 +231,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Realisierung von fünf Mehrfamilienhäusern in Langen (Nahe FFM).",
-	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeit: 30.11.2018 (ca. 21 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeitende: 30.11.2018 (ca. 21 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 },{
 	"name":"EXPORO: Karasstrasse (Dresden)",
 	"url":"https://exporo.de/projekt/karasstrasse?a_aid=64268",
@@ -195,7 +240,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für Entwicklung von zwei Neubaugebäuden mit ca. 43 barrierefreien Wohnungen zum betreuten Wohnen in Dresden-Blasewitz.",
-	"konditionen":"Zinsen: 6,0 % p.a. (endfällig) - Laufzeit: 30.06.2019 (ca. 26 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"	
+	"konditionen":"Zinsen: 6,0 % p.a. (endfällig) - Laufzeitende: 30.06.2019 (ca. 26 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"	
 },{
 	"name":"EXPORO: Stahlgruberring (München)",
 	"url":"https://exporo.de/projekt/stahlgruberring?a_aid=64268",
@@ -204,7 +249,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für Kauf eines Grundstücks in München-Riem, auf dem Hotelgebäude darauf errichtet werden kann",
-	"konditionen":"Zinsen: 5.5% p.a. (endfällig) - Laufzeit: 31.05.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"Zinsen: 5.5% p.a. (endfällig) - Laufzeitende: 31.05.2018 (ca. 12 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
 	"name":"BERGFÜRST: Santa Ponsa (Mallorca)",
 	"url":"https://de.bergfuerst.com/immobilien/santa-ponsa",
@@ -213,7 +258,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Besichertes Darlehen für Luxusvilla im Südwesten Mallorcas.",
-	"konditionen":"Zinsen: 7,0 % p.a. (halbjährlich) - Laufzeit: 31.10.2018 (ca. 18 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"Zinsen: 7,0 % p.a. (halbjährlich) - Laufzeitende: 31.10.2018 (ca. 18 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
 	"name":"BERGFÜRST: Wohnpark Mendig (Nahe Koblenz)",
 	"url":"https://de.bergfuerst.com/immobilien/wohnpark-mendig",
@@ -222,7 +267,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für Teilsanierung eines Wohnparks in Mendig, Nahe Koblenz",
-	"konditionen":"Zinsen: 6,5 % p.a. (halbjährlich) - Laufzeit: 10.08.2018 (18 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"Zinsen: 6,5 % p.a. (halbjährlich) - Laufzeitende: 10.08.2018 (18 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
 	"name":"BERGFÜRST: Stuttgart Neckarstraße",
 	"url":"https://de.bergfuerst.com/immobilien/stuttgart-neckarstrasse",
@@ -231,7 +276,7 @@
 	"status":"FINANZIERT",
 	"status_css":"status_financed",
 	"zusammenfassung":"Mit diesem Projekt eingeworbene Mittel fliessen als Investition in mit 1-2 Jahren Laufzeit kurzfristige andere Projekte des Gesellschafters.",
-	"konditionen":"Zinsen: 6,0 % p.a. (halbjährlich) - Laufzeit: 09.02.2019 (ca. 2 Jahre) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+	"konditionen":"Zinsen: 6,0 % p.a. (halbjährlich) - Laufzeitende: 09.02.2019 (ca. 2 Jahre) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
 	},{
 	"name":"",
 	"url":"",
