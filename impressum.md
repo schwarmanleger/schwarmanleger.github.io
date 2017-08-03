@@ -7,13 +7,14 @@ canonical_url: http://schwarmanleger.de/impressum/
 
 <h2>Angaben gemäß § 5 TMG:</h2>
 <p>Fabian Tan<br>Einzelunternehmer<br>
-C/O Factory Berlin Community Space<br>
+C/O Factory Berlin<br>
 Rheinsberger Str. 76/77<br>10115 Berlin </p>
 <h2>Kontakt:</h2>
-E-Mail: schwarmanleger@gmail.com
+E-Mail: schwarmanleger@gmail.com<br>
+Telefon: 0162-4645833
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h2>
 <p>Fabian Tan<br>
-C/O Factory Berlin Community Space<br>
+C/O Factory Berlin<br>
 Rheinsberger Str. 76/77<br>10115 Berlin </p>
 <p>Wir sind nicht bereit oder verpflichtet, an
 Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle
