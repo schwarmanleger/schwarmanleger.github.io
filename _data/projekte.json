@@ -8,6 +8,15 @@
 	"zusammenfassung":"",
 	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
 },{
+	"name":"EXPORO: Brempter Hof",
+	"url":"https://exporo.de/projekt/brempter-hof?a_aid=64268",
+	"zins":"5,0%",
+	"dauer":"13 Mo.",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
+	"zusammenfassung":"Nachrangdarlehen für die Finanzierung der Revitalisierung eines Ensembles von vier zusammenliegenden, denkmalgeschützten Gebäuden im Zentrum von Krefelde, direkt am Rhein.",
+	"konditionen":"Zinsen: 5,0% p.a. (endfällig) - Laufzeitende: 31.08.2018 (ca. 13 Monate) - Tilgung: endfällig - ERFOLGREICH FINANZIERT"
+},{
 	"name":"EXPORO: Weststrasse",
 	"url":"https://exporo.de/projekt/weststrasse?a_aid=64268",
 	"zins":"5,5%",
