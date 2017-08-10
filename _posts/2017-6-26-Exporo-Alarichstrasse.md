@@ -24,6 +24,6 @@ canonical_url: http://schwarmanleger.de/blog/2017/06/26/Exporo-Alarichstrasse.ht
     {% comment %}
     <button>SHARE</button>
     {% endcomment %}
-    <a target="_blank" href="https://exporo.de/projekt/alarichstrasse" class="ampstart-btn">ZUR PROJEKTSEITE &raquo;</a>
+    <a target="_blank" href="https://exporo.de/projekt/alarichstrasse?a_aid=64268" class="ampstart-btn">ZUR PROJEKTSEITE &raquo;</a>
 </div>
 

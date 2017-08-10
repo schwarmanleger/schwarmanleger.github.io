@@ -23,6 +23,6 @@ canonical_url: http://schwarmanleger.de/blog/2017/06/01/Exporo-Berliner-Strasse-
     {% comment %}
     <button>SHARE</button>
     {% endcomment %}
-    <a target="_blank" href="https://exporo.de/projekt/berliner-strasse" class="ampstart-btn">ZUR PROJEKTSEITE &raquo;</a>
+    <a target="_blank" href="https://exporo.de/projekt/berliner-strasse?a_aid=64268" class="ampstart-btn">ZUR PROJEKTSEITE &raquo;</a>
 </div>
 

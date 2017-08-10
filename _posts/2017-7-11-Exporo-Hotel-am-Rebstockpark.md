@@ -5,7 +5,7 @@ laufzeit: 24 Monate
 rendite: 6,0% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
-externalurl: https://exporo.de/projekt/hotel-rebstockpark
+externalurl: https://exporo.de/projekt/hotel-rebstockpark?a_aid=64268
 canonical_url: http://schwarmanleger.de/blog/2017/07/11/Exporo-Hotel-am-Rebstockpark.html
 ---
 
