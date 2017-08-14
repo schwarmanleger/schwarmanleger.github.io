@@ -1,4 +1,13 @@
 [{
+	"name":"EXPORO: Bad Doberan Center",
+	"url":"https://exporo.de/projekt/bad-doberan-center?a_aid=64268",
+	"zins":"5.5%",
+	"dauer":"35 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Refinanzierung eines Einzelhandelszentrum in Bad Doberan bei Rostock. Ziel ist die Mieterstruktur zu optimieren, Mietverträge zu verlängern und die Vermietung auszubauen, um dann das Objektes an einen Investor zu verkaufen.",
+	"konditionen":"Zinsen: 5.5% p.a. (Zahlung jährlich zum 30.6.) - Laufzeit: ca. 35 Monate (bis 30.06.2020) - Tilgung: endfällig - Ab 500 Euro"
+},{
 	"name":"",
 	"url":"",
 	"zins":"",
@@ -84,8 +93,8 @@
 	"url":"https://www.zinsland.de/projekte/gemeindeamtsstrasse-leipzig",
 	"zins":"6,5%",
 	"dauer":"18 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Neubauprojekts von 8 Wohneinheiten im Leipziger Szenebezirk Altlindenau.",
 	"konditionen":"Zinsen: 6,5% (endfällig) - Laufzeitende: 16.12.2018 (18 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -102,8 +111,8 @@
 	"url":"https://exporo.de/projekt/berliner-strasse?a_aid=64268",
 	"zins":"5%",
 	"dauer":"36 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen zur Finanzierung einer Bestandsimmobilie mit dem Ziel der Rückführung des Investments aus den Mietüberschüssen und dem Verkauf des Projektes. Derzeitiger Mieter ist die Landeshauptstadt Wiesbaden.",
 	"konditionen":"Zinsen: 5.0% (Jährliche Zinsauszahlung zum 30.06.)  - Laufzeit: 29.05.2020 (ca. 36 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -111,8 +120,8 @@
 	"url":"https://exporo.de/projekt/alarichstrasse?a_aid=64268",
 	"zins":"5.5%",
 	"dauer":"23 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Aufwertung einer Bestandsimmobilie in Berlin.",
 	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeitende: 15.05.2019 (ca. 23 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -120,8 +129,8 @@
 	"url":"https://www.dagobertinvest.at/crowdfunding-immobilie-dns-muenchendorf.html?referrer=15146",
 	"zins":"6,8%",
 	"dauer":"24 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Immobilienprojekts (2 Bauabschnitte mit je 7 Wohnungen) im Wiener Speckgürtel.",
 	"konditionen":"Zinsen: 6,8% p.a. (endfällig) - Laufzeit: 24 Monate (ca. 07/2019) - Tilgung: endfällig - Ab 250 Euro"
 },{
@@ -129,8 +138,8 @@
 	"url":"https://www.dagobertinvest.at/crowdfunding-fx-immo-immobilie-fischamend.html?referrer=15146",
 	"zins":"7,25%",
 	"dauer":"22 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung eines Immobilienprojekts (19 Wohnungen) in Fischamend bei Wien.",
 	"konditionen":"Zinsen: 7,25% p.a. - Laufzeit: 22 Monate (ca. 05/2019) - Tilgung: endfällig - Ab 250 Euro"
 },{
@@ -138,8 +147,8 @@
 	"url":"https://www.zinsbaustein.de/projekte/wave-waterside-living-berlin",
 	"zins":"5,25%",
 	"dauer":"19 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Finanzierung eines Neubau-Projekts am Spreeufer im Berliner Szeneviertel Friedrichshain",
 	"konditionen":"Zinsen: 5,25% - Laufzeitende: 13.02.2019 (ca. 19 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -174,8 +183,8 @@
 	"url":"https://de.bergfuerst.com/immobilien/soleada",
 	"zins":"7,0%",
 	"dauer":"18 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Besichertes Bankdarlehen für Modernisierung einer mediterranen Luxus-Villa auf Mallorca.",
 	"konditionen":"7,0% p.a. Zinsen (halbjährlich) - Laufzeitende: 31.12.2018 (ca. 1,5 Jahre)  - Tilgung: endfällig - Ab 10 Euro"
 },{
