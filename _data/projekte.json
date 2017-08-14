@@ -1,13 +1,4 @@
 [{
-	"name":"EXPORO: Bad Doberan Center",
-	"url":"https://exporo.de/projekt/bad-doberan-center?a_aid=64268",
-	"zins":"5.5%",
-	"dauer":"35 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
-	"zusammenfassung":"Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Refinanzierung eines Einzelhandelszentrum in Bad Doberan bei Rostock. Ziel ist die Mieterstruktur zu optimieren, Mietverträge zu verlängern und die Vermietung auszubauen, um dann das Objektes an einen Investor zu verkaufen.",
-	"konditionen":"Zinsen: 5.5% p.a. (Zahlung jährlich zum 30.6.) - Laufzeit: ca. 35 Monate (bis 30.06.2020) - Tilgung: endfällig - Ab 500 Euro"
-},{
 	"name":"",
 	"url":"",
 	"zins":"",
@@ -16,6 +7,24 @@
 	"status_css":"status_active",
 	"zusammenfassung":"",
 	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"KAPILENDO: Feuerverzinkung seit 1895 - Freiberger Metallwarenfabrik Paul Bachmann GmbH",
+	"url":"http://schwarmanleger.de/blog/2017/08/14/Kapilendo-Feuerverzinkung-Freiberger-Metallwarenfabrik.html",
+	"zins":"7,0%",
+	"dauer":"12 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Betriebsmittel-Projekt eines mittelständisches Unternehmens, das Stahl- und Eisenbauteile aller Art per Feuerverzinkung mit einem beständigen Rostschutz versieht. Mit dem Crowdfunding-Geld soll eine größere Menge Zink auf dem Rohstoffmarkt gekauft werden, um das  Wachstum des Unternehmens zu beschleunigen.",
+	"konditionen":"Zinsen: 7,0% (quartalsweise Zahlung) - Laufzeit: 12 Monate - Tilgung: endfällig - Ab 100 Euro"
+},{
+	"name":"EXPORO: Bad Doberan Center",
+	"url":"https://exporo.de/projekt/bad-doberan-center?a_aid=64268",
+	"zins":"5.5%",
+	"dauer":"35 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Refinanzierung eines Einzelhandelszentrum in Bad Doberan bei Rostock. Ziel ist die Mieterstruktur zu optimieren, Mietverträge zu verlängern und die Vermietung auszubauen, um dann das Objektes an einen Investor zu verkaufen.",
+	"konditionen":"Zinsen: 5.5% p.a. (Zahlung jährlich zum 30.6.) - Laufzeit: ca. 35 Monate (bis 30.06.2020) - Tilgung: endfällig - Ab 500 Euro"
 },{
 	"name":"EXPORO: Brempter Hof",
 	"url":"https://exporo.de/projekt/brempter-hof?a_aid=64268",
