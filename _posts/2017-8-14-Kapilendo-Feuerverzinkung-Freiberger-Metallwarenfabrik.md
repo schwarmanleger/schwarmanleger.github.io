@@ -22,6 +22,12 @@ canonical_url: http://schwarmanleger.de/blog/2017/08/14/Kapilendo-Feuerverzinkun
 <p>Auch dieses Betriebsmittel-Projekt hat eine Laufzeit von nur 12 Monaten, was im Vergleich zu klassischen Crowdinvesting Projekten vergleichsweise kurz ist und aufgrund der verkürzten Geldbindungsphase für viele Anleger sehr attraktiv ist. Projekte dieser Art sind deswegen bereits oft in <i>kürzester Zeit</i> voll finanziert - bei einigen Projekten war dies bereits nach <b>weniger als einer Minute der Fall</b>!<br>
 Sollten Sie also Interesse an dieser Investment-Chance haben, dann sollten Sie vorab bei Kapilendo registriert sein (<a href="https://www.kapilendo.de/?partner=kap-b&kbid=7881&aid=pd01" target="_blank">kostenlose, unverbindliche Anmeldung hier</a>), und dann am 14.8. um Punkt 18:30 Uhr die unten verlinkte Projektseite aufrufen.</p>
 
+<p><b><i>Update 14.08.17 18:45</i></b><br>
+Laut Kapilendo wurde das Projekt innerhalb von 40 Sekunden von 53 Anlegern finanziert:<br>
+<div class="ta-c">
+<amp-img  src="/images/kapilendo-14aug17.jpg" alt="Kapilendo - Freiberger Metallwarenfabrik Paul Bachmann GmbH" width="790" height="650" layout="responsive"></amp-img></div>
+</p>
+
 
 <div class="blogbottom">
     {% comment %}
