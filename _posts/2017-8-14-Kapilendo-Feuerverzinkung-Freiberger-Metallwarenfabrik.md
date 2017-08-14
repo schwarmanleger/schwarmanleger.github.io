@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 14.Augst 2017 - Kapilendo startet das Projekt 'Feuerverzinkung seit 1895 - Freiberger Metallwarenfabrik Paul Bachmann GmbH'
-laufzeit: 35 Monate
-rendite: 5,5% p.a.
-zinsfaelligkeit:  jährlich zum 30.6.
+laufzeit: 12 Monate
+rendite: 7.0% p.a.
+zinsfaelligkeit:  quartalsweise
 categories: [abc, def]
 externalurl: https://www.kapilendo.de/projekte/6beb47c5-0ab6-40f3-88de-feeca2b0e4dd?partner=kap-b&kbid=7881&aid=pd01
 canonical_url: http://schwarmanleger.de/blog/2017/08/14/Kapilendo-Feuerverzinkung-Freiberger-Metallwarenfabrik.html
