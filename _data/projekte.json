@@ -30,8 +30,8 @@
 	"url":"https://exporo.de/projekt/bad-doberan-center?a_aid=64268",
 	"zins":"5.5%",
 	"dauer":"35 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Refinanzierung eines Einzelhandelszentrum in Bad Doberan bei Rostock. Ziel ist die Mieterstruktur zu optimieren, Mietverträge zu verlängern und die Vermietung auszubauen, um dann das Objektes an einen Investor zu verkaufen.",
 	"konditionen":"Zinsen: 5.5% p.a. (Zahlung jährlich zum 30.6.) - Laufzeit: ca. 35 Monate (bis 30.06.2020) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -48,8 +48,8 @@
 	"url":"https://exporo.de/projekt/weststrasse?a_aid=64268",
 	"zins":"5,5%",
 	"dauer":"17 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung der Sanierung und Modernisierung eines 4-geschossigen Denkmalgebäudes in Chemnitz.",
 	"konditionen":"Zinsen: 5,5% p.a. (endfällig) - Laufzeit: ca. 17 Monate (31.12.2018) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -57,8 +57,8 @@
 	"url":"https://www.zinsland.de/projekte/ritterhoefe-teltow",
 	"zins":"6,0%",
 	"dauer":"24 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung der Sanierung eines Bestandsgebäudes in Teltow an der Stadtgrenze zu Berlin, mit dem Ziel dort Gewerbeflächen, Townhouses und Maisonette-Wohnungen mit Gartenanteil zu errichten. Zusätzlich Errichtung von zwei Neubauten mit circa 2.000 m² Neubau-Wohnfläche.",
 	"konditionen":"Zinsen: 6,0% (endfällig) - Laufzeit: 24 Monate - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -84,8 +84,8 @@
 	"url":"https://www.kapilendo.de/projekte/8ba451a6-c1f5-4b8a-a4ee-76bba117e7a5?partner=kap-b&kbid=7881&aid=pd01",
 	"zins":"8,5%",
 	"dauer":"4 Jahre",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für einen Finanzierungsmix, welcher zur  Modernisierung der bestehenden Filialen, Erweiterung der Hauptfiliale und Eröffnung einer neuen Filiale genutzt werden soll.",
 	"konditionen":"Zinsen: 8,5% p.a. (endfällig) + umsatzabhängiger Erfolgszins von bis zu 25% - Laufzeitende: 09/2021 (48 Monate) - Tilgung: endfällig - Ab 100 Euro"
 },{
@@ -93,8 +93,8 @@
 	"url":"https://exporo.de/projekt/hotel-rebstockpark?a_aid=64268",
 	"zins":"6,0%",
 	"dauer":"24 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für die Finanzierung des Kaufs eines Grundstücks, welches zum Bau eines Hotel-Neubaus mit ca. 13.170 m² Nutzfläche und ca. 430 Zimmern projektiert ist. Lage: Frankfurt-Bockenheim in der Nähe des Messegeländes, ICE-Bahnhof und Naherholungszielen.",
 	"konditionen":"Zinsen: 6,0% (endfällig) - Laufzeitende: 30.06.2019 (ca. 24 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -120,8 +120,8 @@
 	"url":"https://exporo.de/projekt/porta-nova?a_aid=64268",
 	"zins":"5,5%",
 	"dauer":"30 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Nachrangdarlehen für den Umbau eines Kasernengeländes in Triers zu einem Stadtquartier, bestehend aus 12 einzelnen Wohngebäuden, einem Appartmenthaus und einem Hotel.",
 	"konditionen":"Zinsen: 5,5 % p.a. (endfällig) - Laufzeitende: 07.11.2019 (ca. 30 Monate) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -192,8 +192,8 @@
 	"url":"https://www.seedmatch.de/startups/mcwellness",
 	"zins":"8,0% + Bonuszins",
 	"dauer":"4,5 J",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Partiarisches Nachrangdarlehen für Finanzierung weiterer Filialen.",
 	"konditionen":"Zinsen: 8,0% p.a. Zinsen + umsatzabhängiger Bonuszins (bis zu 30%) - Laufzeitende: 31.12.2021 (ca. 4,5 Jahre) - Tilgung: endfällig - Ab 250 Euro"
 	},{
