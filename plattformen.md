@@ -43,6 +43,17 @@ canonical_url: http://schwarmanleger.de/plattformen/
         Transparente Beteiligung an Immobilien Projekten renommierter Projektentwickler mit langjährigem Track-Record. 5 - 7% Zinsen. Kurze Laufzeiten. Schon ab 500 EUR.<br>        
       </div>
     </div>
+    <div class="plattform_box">
+      <div class="plattform_name ta-c">
+        <a href="https://www.zinsbaustein.de" target="_blank">ZINSBAUSTEIN.DE</a>        
+      </div>
+      <div class="platform_summary">
+        <strong>ZINSBAUSTEIN – <i>Einfach online in Immobilien investieren</i></strong><br>
+        <a title="www.zinsbaustein.de" href="https://www.zinsbaustein.de" target="_blank">www.zinsbaustein.de</a><br />      
+        Ab 500€ Immobilienprojekte mitfinanzieren und 5,25% Zinsen p.a. erhalten<br>        
+      </div>
+    </div>
+    
     <h3>Plattformen für Kredit- und Investment-Projekte von Wachstumsunternehmen und deutschen Mittelständlern</h3>
     <div class="plattform_box">
       <div class="plattform_name ta-c">
