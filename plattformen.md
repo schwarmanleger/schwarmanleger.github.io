@@ -54,6 +54,50 @@ canonical_url: http://schwarmanleger.de/plattformen/
       </div>
     </div>
     
+    <div class="plattform_box">
+      <div class="plattform_name ta-c">
+        <a href="https://ifunded.de" target="_blank">ifunded.de</a>        
+      </div>
+      <div class="platform_summary">
+        <strong>ifunded.de – <i>Einfach in Immobilien anlegen</i></strong><br>
+        <a title="ifunded.de" href="https://ifunded.de" target="_blank">www.ifunded.de</a><br />      
+        Investieren mit Experten aus der Immobilienbranche - ab 500 Euro<br>        
+      </div>
+    </div>
+    
+    <div class="plattform_box">
+      <div class="plattform_name ta-c">
+        <a href="https://www.homerocket.de" target="_blank">HOME ROCKET</a>        
+      </div>
+      <div class="platform_summary">
+        <strong>www.homerocket.de – <i>Crowdfunding für professionelle Immobilienprojekte</i></strong><br>
+        <a title="www.homerocket.de" href="https://www.homerocket.de" target="_blank">www.homerocket.de</a><br />      
+        Ab 250 Euro<br>        
+      </div>
+    </div>
+    
+    <div class="plattform_box">
+      <div class="plattform_name ta-c">
+        <a href="https://www.immofunding.com" target="_blank">IMMOFUNDING</a>        
+      </div>
+      <div class="platform_summary">
+        <strong>www.immofunding.com – <i>Der einfache Weg in Immobilien zu investieren</i></strong><br>
+        <a title="www.immofunding.com" href="https://www.immofunding.com" target="_blank">www.immofunding.com</a><br />      
+        Rendite zwischen 5%–7% p.a  - Ab 250 Euro<br>        
+      </div>
+    </div>
+    
+    <div class="plattform_box">
+      <div class="plattform_name ta-c">
+        <a href="https://www.dagobertinvest.at" target="_blank">DAGOBERTINVEST</a>        
+      </div>
+      <div class="platform_summary">
+        <strong>www.dagobertinvest.at – <i>SIE VERDIENEN HÖHERE ZINSEN!</i></strong><br>
+        <a title="www.dagobertinvest.at" href="https://www.immofunding.com" target="_blank">www.dagobertinvest.at</a><br />      
+        Einfach in österreichische Unternehmen investieren: 5% bis 8% p.a. - Ab 250 Euro<br>        
+      </div>
+    </div>
+    
     <h3>Plattformen für Kredit- und Investment-Projekte von Wachstumsunternehmen und deutschen Mittelständlern</h3>
     <div class="plattform_box">
       <div class="plattform_name ta-c">
