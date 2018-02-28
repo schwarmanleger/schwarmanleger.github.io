@@ -17,6 +17,15 @@
 	"zusammenfassung":"Unbesichertes Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Finanzierung des Neubau eines Mehrfamilienhauses im 21. Bezirk von Wien.",
 	"konditionen":"Zinsen: 6,5% p.a. (endfällig) - Laufzeit: ca. 30 Monate (bis 19.08.2020) - Tilgung: endfällig - Ab 500 Euro"
 },{
+	"name":"Exporo : Schillerquartier Zeuthen",
+	"url":"https://exporo.de/projekt/schillerquartier-zeuthen",
+	"zins":"4,15%",
+	"dauer":"16 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Erstrangige vollstreckbare Grundschuld für das Projekt zur Entwicklung von drei Mehrfamilienhäusern in Zeuthen bei Berlin mit 12 Wohneinheiten",
+	"konditionen":"Zinsen: 4,15% p.a. (endfällig) - Laufzeit: ca. 16 Monate (bis 30.06.2019) - Tilgung: endfällig - Ab 500 Euro"
+},{
 	"name":"ZINSLAND: Am Stener Berg",
 	"url":"https://www.zinsland.de/projekte/am-stener-berg",
 	"zins":"6,5%",
