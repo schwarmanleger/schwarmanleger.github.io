@@ -11,7 +11,7 @@ canonical_url: http://schwarmanleger.de/blog/2018/02/22/Crowdinvesting-Exporo-sc
 
 <p>Die Plattform Exporo hat am 22.02.18 das Projekt 'Schillerquartier Zeuthen' angekündigt.</p>
 
-<p>Bei dem Investmentangebot geht es um die Finanzierung für die Entwicklung von drei Mehrfamilienhäusern in Zeuthen bei Berlin mit 12 Wohneinheiten (1.017 m² Wohnfläche) und voraussichtlich 18 PKW-Stellplätzen.
+<p>Bei dem Investmentangebot geht es um die Finanzierung für die Entwicklung von drei Mehrfamilienhäusern in Zeuthen bei Berlin mit 12 Wohneinheiten (1.017 m2 Wohnfläche) und voraussichtlich 18 PKW-Stellplätzen.
 
 Bei der Finanzierungsform handelt es sich um eine erstrangige vollstreckbare Grundschuld an dem Projekt für die Treuhänderin zugunsten der Exporo Anleger.
 Der Geschäftsführer der Darlehensnehmerin gibt ein notarielles Schuldanerkenntnis für 100% der Darlehenssumme zuzüglich Zinsen gegenüber der Treuhänderin zugunsten der Exporo Anleger.
