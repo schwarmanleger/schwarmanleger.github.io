@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 01.Februar 2017 - Zinsland startet das Projekt 'Am Stener Berg'
+title: 01.Februar 2018 - Zinsland startet das Projekt 'Am Stener Berg'
 laufzeit: 18 Monate
 rendite: 6,5% p.a.
 zinsfaelligkeit: endfällig
