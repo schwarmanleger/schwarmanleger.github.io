@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 22.Februar 2018 - Exporo: Projekt 'Schillerquartier Zeuthen' startet in Kürze
+title: 22.Februar 2018 - Exporo - Projekt 'Schillerquartier Zeuthen' startet in Kürze
 laufzeit: 16 Monate
 rendite: 4,15% p.a.
 zinsfaelligkeit: endfällig
