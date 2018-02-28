@@ -8,6 +8,33 @@
 	"zusammenfassung":"",
 	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
 },{
+	"name":"ZINSLAND: Brünner Straße",
+	"url":"https://www.zinsland.de/projekte/bruennerstrasse-wien",
+	"zins":"6,5%",
+	"dauer":"30 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Unbesichertes Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Finanzierung des Neubau eines Mehrfamilienhauses im 21. Bezirk von Wien.",
+	"konditionen":"Zinsen: 6,5% p.a. (endfällig) - Laufzeit: ca. 30 Monate (bis 19.08.2020) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"ZINSLAND: Am Stener Berg",
+	"url":"https://www.zinsland.de/projekte/am-stener-berg",
+	"zins":"6,5%",
+	"dauer":"18 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Unbesichertes Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Finanzierung des Neubaus von 41 Einfamilienhäusern/ Doppelhaushälften in Berlin",
+	"konditionen":"Zinsen: 6,5% p.a. (endfällig) - Laufzeit: ca. 18 Monate (bis 30.06.2019) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"ZINSLAND: Seniorenpflegeheim Carolinenhof",
+	"url":"https://www.zinsland.de/projekte/seniorenpflegeheim-carolinenhof",
+	"zins":"6,5%",
+	"dauer":"18 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Unbesichertes Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Finanzierung des Ankaufs eines Pflegeheimes mit 90 Apartments in Salzgitter",
+	"konditionen":"Zinsen: 6,5% p.a. (endfällig) - Laufzeit: ca. 18 Monate (bis 01.06.2019) - Tilgung: endfällig - Ab 500 Euro"
+},{
 	"name":"ZINSLAND: Königin.Luise87",
 	"url":"https://www.zinsland.de/projekte/koeniginluise87",
 	"zins":"6,0%",
