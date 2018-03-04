@@ -19,7 +19,7 @@ canonical_url: http://schwarmanleger.de/plattformen/
         <strong>Bergfürst – <i>"Neu denken, anders handeln."</i></strong><br />
         <a title="www.bergfuerst.com" href="https://www.bergfuerst.com" target="_blank">www.bergfuerst.com</a><br>
         Crowdinvesting-Plattform, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.
-        Auf dem Handelsplatz können erfolgreich platzierten Emissionen zu individuellen Kursen gekauft und verkauft werden.<br />        
+        Auf dem Handelsplatz können erfolgreich platzierten Emissionen zu individuellen Kursen gekauft und verkauft werden.<br />
       </div>      
     </div>
     
@@ -35,11 +35,11 @@ canonical_url: http://schwarmanleger.de/plattformen/
     </div>
     <div class="plattform_box">
       <div class="plattform_name ta-c">
-        <a href="https://www.zinsland.de" target="_blank">ZINSLAND</a>        
+        <a title="www.zinsland.de" href="https://www.zinsland.de?utm_campaign=tell-a-friend&utm_source=ZL967155" target="_blank">ZINSLAND</a>        
       </div>
       <div class="platform_summary">
         <strong>ZINSLAND – <i>Hier wohnen die guten Zinsen</i></strong><br>
-        <a title="www.zinsland.de" href="https://www.zinsland.de" target="_blank">www.zinsland.de</a><br />      
+        <a title="www.zinsland.de" href="https://www.zinsland.de?utm_campaign=tell-a-friend&utm_source=ZL967155" target="_blank">www.zinsland.de</a><br />      
         Transparente Beteiligung an Immobilien Projekten renommierter Projektentwickler mit langjährigem Track-Record. 5 - 7% Zinsen. Kurze Laufzeiten. Schon ab 500 EUR.<br>        
       </div>
     </div>
