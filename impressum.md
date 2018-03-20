@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: noindex
 title: Impressum
 permalink: /impressum/
 canonical_url: http://schwarmanleger.de/impressum/
