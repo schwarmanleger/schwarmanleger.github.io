@@ -30,8 +30,8 @@
 	"url":"https://exporo.de/projekt/schillerquartier-zeuthen",
 	"zins":"4,15%",
 	"dauer":"16 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Erstrangige vollstreckbare Grundschuld für das Projekt zur Entwicklung von drei Mehrfamilienhäusern in Zeuthen bei Berlin mit 12 Wohneinheiten",
 	"konditionen":"Zinsen: 4,15% p.a. (endfällig) - Laufzeit: ca. 16 Monate (bis 30.06.2019) - Tilgung: endfällig - Ab 500 Euro"
 },{
