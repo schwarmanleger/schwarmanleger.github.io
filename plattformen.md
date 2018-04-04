@@ -89,11 +89,11 @@ canonical_url: http://schwarmanleger.de/plattformen/
     
     <div class="plattform_box">
       <div class="plattform_name ta-c">
-        <a href="https://www.dagobertinvest.at" target="_blank">DAGOBERTINVEST</a>        
+        <a title="Bei dagobertinvest registrieren" href="https://www.dagobertinvest.at/backend/login-registrieren.php?referrer=15146" target="_blank">DAGOBERTINVEST</a>        
       </div>
       <div class="platform_summary">
         <strong>www.dagobertinvest.at – <i>SIE VERDIENEN HÖHERE ZINSEN!</i></strong><br>
-        <a title="www.dagobertinvest.at" href="https://www.immofunding.com" target="_blank">www.dagobertinvest.at</a><br />      
+        <a title="Bei dagobertinvest registrieren" href="https://www.dagobertinvest.at/backend/login-registrieren.php?referrer=15146" target="_blank">www.dagobertinvest.at</a><br />      
         Einfach in österreichische Unternehmen investieren: 5% bis 8% p.a. - Ab 250 Euro<br>        
       </div>
     </div>
