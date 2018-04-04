@@ -13,11 +13,11 @@ canonical_url: http://schwarmanleger.de/plattformen/
     <h3>Plattformen für Immobilien-Projekte</h3>
      <div class="plattform_box">
       <div class="plattform_image">
-        <a href="https://www.bergfuerst.com" target="_blank"><amp-img class="anbieterimage" src="/images/bergfuerst-logo-dark-300-v3.png" alt="www.bergfuerst.de" width="200" height="50"></amp-img></a>
+        <a href="https://partner.bergfuerst.com/go.cgi?pid=200&wmid=32&cpid=1&prid=3&target=10euro" title="10 Euro Gutschein bei Registrierung" target="_blank"><amp-img class="anbieterimage" src="/images/bergfuerst-logo-dark-300-v3.png" alt="www.bergfuerst.de" width="200" height="50"></amp-img></a>
       </div>
       <div class="platform_summary">
         <strong>Bergfürst – <i>"Neu denken, anders handeln."</i></strong><br />
-        <a title="www.bergfuerst.com" href="https://www.bergfuerst.com" target="_blank">www.bergfuerst.com</a><br>
+        <a title="www.bergfuerst.com" href="https://partner.bergfuerst.com/go.cgi?pid=200&wmid=32&cpid=1&prid=3&target=10euro" title="10 Euro Gutschein bei Registrierung" target="_blank">www.bergfuerst.com</a><br>
         Crowdinvesting-Plattform, bei der sich Privatinvestoren bereits ab 10 Euro an einzelnen Immobilien beteiligen können.
         Auf dem Handelsplatz können erfolgreich platzierten Emissionen zu individuellen Kursen gekauft und verkauft werden.<br />
       </div>      
