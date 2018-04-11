@@ -5,7 +5,7 @@ laufzeit: 18 Monate
 rendite: 6,5% p.a.
 zinsfaelligkeit: endfällig
 categories: [abc, def]
-externalurl: https://www.zinsland.de/projekte/seniorenpflegeheim-carolinenhof
+externalurl: https://www.zinsland.de/projekte/seniorenpflegeheim-carolinenhof?utm_campaign=tell-a-friend&utm_source=ZL967155
 canonical_url: http://schwarmanleger.de/blog/2018/01/10/Crowdinvesting-Zinsland-seniorenpflegeheim-carolinenhof.html
 ---
 
