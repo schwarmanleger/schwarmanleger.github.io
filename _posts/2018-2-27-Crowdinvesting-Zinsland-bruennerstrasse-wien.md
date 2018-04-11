@@ -5,7 +5,7 @@ laufzeit: 30 Monate
 rendite: 6,5% p.a.
 zinsfaelligkeit: endfällig
 categories: [abc, def]
-externalurl: https://www.zinsland.de/projekte/bruennerstrasse-wien
+externalurl: https://www.zinsland.de/projekte/bruennerstrasse-wien?utm_campaign=tell-a-friend&utm_source=ZL967155
 canonical_url: http://schwarmanleger.de/blog/2018/02/27/Crowdinvesting-Zinsland-bruennerstrasse-wien.html
 ---
 
