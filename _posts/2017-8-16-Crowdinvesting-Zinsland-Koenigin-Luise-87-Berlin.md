@@ -5,7 +5,7 @@ laufzeit: 12 Monate
 rendite: 6,0% p.a.
 zinsfaelligkeit: endfällig
 categories: [abc, def]
-externalurl: https://www.zinsland.de/projekte/koeniginluise87
+externalurl: https://www.zinsland.de/projekte/koeniginluise87?utm_campaign=tell-a-friend&utm_source=ZL967155
 canonical_url: http://schwarmanleger.de/blog/2017/08/16/Crowdinvesting-Zinsland-Koenigin-Luise-87-Berlin.html
 ---
 
