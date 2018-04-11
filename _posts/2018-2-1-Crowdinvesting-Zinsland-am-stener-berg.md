@@ -5,7 +5,7 @@ laufzeit: 18 Monate
 rendite: 6,5% p.a.
 zinsfaelligkeit: endfällig
 categories: [abc, def]
-externalurl: https://www.zinsland.de/projekte/am-stener-berg
+externalurl: https://www.zinsland.de/projekte/am-stener-berg?utm_campaign=tell-a-friend&utm_source=ZL967155
 canonical_url: http://schwarmanleger.de/blog/2018/02/01/Crowdinvesting-Zinsland-am-stener-berg.html
 ---
 
