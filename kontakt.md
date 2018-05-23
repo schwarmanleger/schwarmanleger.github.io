@@ -3,7 +3,7 @@ layout: default
 title: Kontakt
 permalink: /kontakt-amp/
 ---
-
+<!--
   <h2>Kontakt</h2>
   <div class="entry">
 
@@ -35,4 +35,4 @@ permalink: /kontakt-amp/
       </p>
     </form>
   </div>
-
+-->
