@@ -8,7 +8,7 @@ canonical_url: http://schwarmanleger.de/impressum/
 <h2>Angaben gemäß § 5 TMG:</h2>
 <p>Fabian Tan<br>Einzelunternehmer<br>
 C/O Factory Berlin<br>
-Rheinsberger Str. 76/77<br>10115 Berlin </p>
+Lohmühlenstraße 65<br>12435 Berlin </p>
 <h2>Kontakt:</h2>
 E-Mail: schwarmanleger@gmail.com<br>
 Telefon: 0162-4645833
