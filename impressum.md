@@ -15,7 +15,7 @@ Telefon: 0162-4645833
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h2>
 <p>Fabian Tan<br>
 C/O Factory Berlin<br>
-Rheinsberger Str. 76/77<br>10115 Berlin </p>
+Lohmühlenstraße 65<br>12435 Berlin </p>
 <p>Wir sind nicht bereit oder verpflichtet, an
 Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle
 teilzunehmen.</p>
