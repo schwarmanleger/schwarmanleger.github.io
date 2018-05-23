@@ -3,7 +3,7 @@ layout: default-no-amp
 title: Kontakt
 permalink: /kontakt/
 ---
-
+<!--
 <h2>Kontakt</h2>
   <div class="entry">
     <p>Um uns zu kontaktieren, füllen Sie bitte folgendes Formular aus:</p>
@@ -31,4 +31,4 @@ permalink: /kontakt/
       </p>
     </form>
   </div>
-
+-->
