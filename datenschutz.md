@@ -1,5 +1,5 @@
 ---
-layout: default-no-amp
+layout: noindex
 title: Datenschutzerkl&auml;rung
 permalink: /datenschutz/
 ---
