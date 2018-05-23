@@ -4,9 +4,6 @@ title: Datenschutzerkl&auml;rung
 permalink: /datenschutz/
 ---
 
-<h1>{{ page.title }}</h1>
-
-<div class="entry">
 <h2 id="dsgvo-general-intro"></h2><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).<br>
 <br>
 </p><h2 id="dsgvo-general-controller">Verantwortlicher</h2><p><span>Tan, Fabian<br>
@@ -123,4 +120,3 @@ Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber
 der Seiten behalten sich ausdr&uuml;cklich rechtliche Schritte im Falle der
 unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails,
 vor.</p><p>&nbsp;</p>
-</div>
