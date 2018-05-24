@@ -5,7 +5,7 @@ laufzeit: 23 Monate
 rendite: 5,5% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
-canonical_url: http://schwarmanleger.de/blog/2017/06/26/Exporo-Alarichstrasse.html
+canonical_url: https://schwarmanleger.de/blog/2017/06/26/Exporo-Alarichstrasse.html
 ---
 
 <p>Die Plattform Exporo hat am 26.06.17 das Projekt 'Alarichstrasse' gestartet.</p>
