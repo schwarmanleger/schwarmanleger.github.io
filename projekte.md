@@ -3,7 +3,7 @@ layout: default
 title: Aktuelle Crowdfunding-Projekte
 permalink: /projekte/
 check_this_out: http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-tables/
-canonical_url: http://schwarmanleger.de/projekte/
+canonical_url: https://schwarmanleger.de/projekte/
 ---
 
 <h2>Projekte</h2>
