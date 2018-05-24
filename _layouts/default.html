@@ -27,6 +27,7 @@ amp-user-notification > .schliessen {color:#FFF;background-color:rgba(0,0,0, 0.9
 
 <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 <script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
+<script async custom-element="amp-geo" src="https://cdn.ampproject.org/v0/amp-geo-0.1.js"></script>
 <script async custom-element="amp-consent" src="https://cdn.ampproject.org/v0/amp-consent-0.1.js"></script>
  <!--
 <script custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js" async=""></script>
@@ -143,15 +144,25 @@ amp-user-notification > .schliessen {color:#FFF;background-color:rgba(0,0,0, 0.9
 <!-- End Navbar -->
 
     <div id="main" role="main" class="container">
+<amp-geo layout="nodisplay">
+  <script type="application/json">
+    {
+      "ISOCountryGroups": {
+        "eu": ["al", "ad", "am", "at", "by", "be", "ba", "bg", "ch", "cy", "cz", "de", "dk", "ee", "es", "fo", "fi", "fr", "gb", "ge", "gi", "gr", "hu", "hr", "ie", "is", "it", "lt", "lu", "lv", "mc", "mk", "mt", "no", "nl", "po", "pt", "ro", "ru", "se", "si", "sk", "sm", "tr", "ua", "uk", "va"]
+      }
+    }
+  </script>
+</amp-geo>
         <amp-consent id="myUserConsent" layout="nodisplay">
 <script type="application/json">
 {
-"consents": {
-	"consent1": {
-		"promptUI": "consentDialog"
+	"consents": {
+		"eu": {
+		  "promptIfUnknownForGeoGroup": "eu",
+		  "promptUI": "consentDialog"
 		}
 	},
-	"postPromptUI": "post-consent-ui"
+"postPromptUI": "post-consent-ui"
 }
 </script>
   <div class="popupOverlay"
