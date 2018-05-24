@@ -6,7 +6,7 @@ rendite: 6,0% p.a.
 zinsfaelligkeit: endfällig
 categories: [abc, def]
 externalurl: https://www.zinsland.de/projekte/koeniginluise87?utm_campaign=tell-a-friend&utm_source=ZL967155
-canonical_url: http://schwarmanleger.de/blog/2017/08/16/Crowdinvesting-Zinsland-Koenigin-Luise-87-Berlin.html
+canonical_url: https://schwarmanleger.de/blog/2017/08/16/Crowdinvesting-Zinsland-Koenigin-Luise-87-Berlin.html
 ---
 
 <p>Die Plattform Zinsland hat am 16.08.17 das Projekt 'Königin.Luise87' gestartet. Hierbei handelt es sich um ein weiteres Projekt welches eine attraktiv kurze Laufzeit mit einer (relativ) hohen Verzinsung kombiniert. Aufgrund dieser zwei Faktoren (kurze Laufzeit + hoher Zinssatz) ist wieder von einer kurzen Zeitspanne auszugehen, in der potentielle Anleger in das Projekt investieren können.</p>
