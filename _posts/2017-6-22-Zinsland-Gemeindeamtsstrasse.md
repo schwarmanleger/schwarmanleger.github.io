@@ -5,7 +5,7 @@ laufzeit: 18 Monate
 rendite: 6,5% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
-canonical_url: http://schwarmanleger.de/blog/2017/06/22/Zinsland-Gemeindeamtsstrasse.html
+canonical_url: https://schwarmanleger.de/blog/2017/06/22/Zinsland-Gemeindeamtsstrasse.html
 ---
 
 <p>Die Plattform Zinsland hat am 22.06.17 das Projekt 'Gemeindeamtsstrasse' gestartet.</p>
