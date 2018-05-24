@@ -5,7 +5,7 @@ laufzeit: 3 Jahre
 rendite: 6,0% p.a.
 zinsfaelligkeit:  halbjährlich jedes Jahr zum 30.06. und 31.12.
 categories: [abc, def]
-canonical_url: http://schwarmanleger.de/blog/2017/05/20/Bergfuerst-gera3.html
+canonical_url: https://schwarmanleger.de/blog/2017/05/20/Bergfuerst-gera3.html
 ---
 
 <p>Die Plattform Bergfürst hat am 20.05.17 das Projekt Gera³ gestartet.</p>
