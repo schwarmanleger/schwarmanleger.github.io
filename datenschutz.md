@@ -93,6 +93,8 @@ Die im Rahmen von Google Analytics von dem Browser des Nutzers übermittelte IP-
 Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a target="_blank" rel="nofollow" href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a>), unter <a href="https://www.google.com/analytics/terms/de.html" rel="nofollow" target="_blank">https://www.google.com/analytics/terms/de.html</a> bzw. unter <a href="https://policies.google.com/?hl=de" rel="nofollow" target="_blank">https://policies.google.com/?hl=de</a> sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a rel="nofollow" target="_blank" href="https://adssettings.google.com/authenticated">(https://adssettings.google.com/authenticated</a>).<br>
 </span></p><p></p>
 
+ <p><strong>Änderung der Einwilligung zur Nutzung von Google Analytics</strong><br>
+  Ihre Einwilligung zur Nutzung von Google Analytics können Sie <a href="/editconsent/">hier</a> ändern.
   
  <p><strong>Zwecke der Verarbeitung</strong><br> 
 Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen.</p> 
