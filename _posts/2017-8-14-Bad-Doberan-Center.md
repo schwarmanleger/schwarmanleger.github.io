@@ -6,7 +6,7 @@ rendite: 5,5% p.a.
 zinsfaelligkeit:  jährlich zum 30.6.
 categories: [abc, def]
 externalurl: https://exporo.de/projekt/bad-doberan-center?a_aid=64268
-canonical_url: http://schwarmanleger.de//blog/2017/08/14/Exporo-Bad-Doberan-Center.html
+canonical_url: https://schwarmanleger.de//blog/2017/08/14/Exporo-Bad-Doberan-Center.html
 ---
 
 <p>Die Plattform Exporo hat am 14.08.17 das Projekt 'Bad Doberan Center' gestartet.</p>
