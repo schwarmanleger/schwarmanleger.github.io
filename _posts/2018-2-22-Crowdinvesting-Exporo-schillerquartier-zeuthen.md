@@ -6,7 +6,7 @@ rendite: 4,15% p.a.
 zinsfaelligkeit: endfällig
 categories: [abc, def]
 externalurl: https://exporo.de/projekt/schillerquartier-zeuthen
-canonical_url: http://schwarmanleger.de/blog/2018/02/22/Crowdinvesting-Exporo-schillerquartier-zeuthen.html
+canonical_url: https://schwarmanleger.de/blog/2018/02/22/Crowdinvesting-Exporo-schillerquartier-zeuthen.html
 ---
 
 <p>Die Plattform Exporo hat am 22.02.18 das Projekt 'Schillerquartier Zeuthen' angekündigt.</p>
