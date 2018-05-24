@@ -6,7 +6,7 @@ rendite: 7.0% p.a.
 zinsfaelligkeit:  quartalsweise
 categories: [abc, def]
 externalurl: https://www.kapilendo.de/projekte/6beb47c5-0ab6-40f3-88de-feeca2b0e4dd?partner=kap-b&kbid=7881&aid=pd01
-canonical_url: http://schwarmanleger.de/blog/2017/08/14/Kapilendo-Feuerverzinkung-Freiberger-Metallwarenfabrik.html
+canonical_url: https://schwarmanleger.de/blog/2017/08/14/Kapilendo-Feuerverzinkung-Freiberger-Metallwarenfabrik.html
 ---
 
 <p>Die Plattform Kapilendo startet am 14.08.17 das Projekt 'Feuerverzinkung seit 1895 - Freiberger Metallwarenfabrik Paul Bachmann GmbH'.</p>
