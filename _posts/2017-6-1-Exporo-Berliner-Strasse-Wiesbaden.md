@@ -5,7 +5,7 @@ laufzeit: 36 Monate
 rendite: 5,0% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
-canonical_url: http://schwarmanleger.de/blog/2017/06/01/Exporo-Berliner-Strasse-Wiesbaden.html
+canonical_url: https://schwarmanleger.de/blog/2017/06/01/Exporo-Berliner-Strasse-Wiesbaden.html
 ---
 
 <p>Die Plattform Exporo hat am 01.06.17 das Projekt 'Berliner Strasse' gestartet.</p>
