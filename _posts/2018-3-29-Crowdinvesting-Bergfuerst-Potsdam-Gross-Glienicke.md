@@ -7,7 +7,7 @@ zinsfaelligkeit: halbjährlich
 categories: [abc, def]
 filename: 2018-3-29-Crowdinvesting-Bergfuerst-Potsdam-Gross-Glienicke.md
 externalurl: https://partner.bergfuerst.com/go.cgi?pid=200&wmid=67&cpid=1&prid=3&subid=&target=potsdam
-canonical_url: http://schwarmanleger.de/blog/2018/03/29/Crowdinvesting-Bergfuerst-Potsdam-Gross-Glienicke.html
+canonical_url: https://schwarmanleger.de/blog/2018/03/29/Crowdinvesting-Bergfuerst-Potsdam-Gross-Glienicke.html
 ---
 
 <p>Die Plattform Bergfürst startet am 29.03.18 das Projekt 'Potsdam-Groß Glienicke':</p>
