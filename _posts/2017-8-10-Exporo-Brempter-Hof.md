@@ -6,7 +6,7 @@ rendite: 5,0% p.a.
 zinsfaelligkeit:  endfällig
 categories: [abc, def]
 externalurl: https://exporo.de/projekt/brempter-hof?a_aid=64268
-canonical_url: http://schwarmanleger.de//blog/2017/08/10/Exporo-Brempter-Hof.html
+canonical_url: https://schwarmanleger.de//blog/2017/08/10/Exporo-Brempter-Hof.html
 ---
 
 <p>Die Plattform Exporo hat am 10.08.17 das Projekt 'Brempter Hof' gestartet, ein weiteres Projekt mit attraktiv kurzer Laufzeit.</p>
