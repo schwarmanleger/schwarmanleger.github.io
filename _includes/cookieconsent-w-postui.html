@@ -1,0 +1,36 @@
+<amp-geo layout="nodisplay">
+  <script type="application/json">
+    {
+      "ISOCountryGroups": {
+        "eu": ["al", "ad", "am", "at", "by", "be", "ba", "bg", "ch", "cy", "cz", "de", "dk", "ee", "es", "fo", "fi", "fr", "gb", "ge", "gi", "gr", "hu", "hr", "ie", "is", "it", "lt", "lu", "lv", "mc", "mk", "mt", "no", "nl", "po", "pt", "ro", "ru", "se", "si", "sk", "sm", "tr", "ua", "uk", "va"]
+      }
+    }
+  </script>
+</amp-geo>
+        <amp-consent id="myUserConsent" layout="nodisplay">
+<script type="application/json">
+{
+	"consents": {
+		"eu": {
+		  "promptIfUnknownForGeoGroup": "eu",
+		  "promptUI": "consentDialog"
+		}
+	},
+	"postPromptUI": "post-consent-ui"
+}
+</script>
+  <div class="popupOverlay"
+    id="consentDialog">
+    <div class="consentPopup">
+      <p class="m1">Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklärst du dich damit einverstanden, dass wir Cookies und Google Analytics zur Verbesserung unseres Angebots und Erfassung Ihrer Interessen verwenden und auswerten. Weitere Informationen finden Sie in unserer <a href="/datenschutz/">Datenschutzerklärung</a>. Ihre Einwilligung ist freiwillig. Sie können diese jederzeit in der Zukunft widerrufen.</p>
+      <button on="tap:myUserConsent.accept"
+        class="ampstart-btn ampstart-btn-secondary caps mx1" role="button">JA</button>
+      <button on="tap:myUserConsent.reject"
+        class="ampstart-btn ampstart-btn-secondary caps" role="button">NEIN</button>
+    </div>
+  </div>
+  <div id="post-consent-ui">
+    <button on="tap:myUserConsent.prompt()"
+      class="ampstart-btn caps m1">Einwilligung Ändern</button>
+  </div>
+</amp-consent>
