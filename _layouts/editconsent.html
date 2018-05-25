@@ -15,7 +15,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .blogbottom{text-align:center;margin:50px 0;}.ta-c{text-align:center;}.ta-r{text-align:right;}.fw-b{font-weight:bold;}.fs-12{font-size:12px;}.fs-14{font-size:14px;}.fs-18{font-size:18px;}.m-b20{margin-bottom:20px;}.m-b30{margin-bottom:30px;}.kleintext{font-size:10px;}.intro-block{font-style:italic;font-size:18px;margin-bottom:20px;}.index-blog-entry{margin:20px;}
 .c-projtitle{color:#4183C4;}.c-projdesc{color:#333;}.c-projprops{font-weight: bold; color:#666}
 amp-consent > div {padding:1rem;align-items:center;justify-content:center;top:0;background-color:rgba(0,0,0, 0.9);color:#FFF;}
-	  amp-consent > .h3 { font-size: 1.5rem; line-height: 2rem; }
+amp-consent > .m1 { font-size: 1rem; line-height: 1.5rem; }
 amp-consent > .schliessen {color:#FFF;background-color:rgba(0,0,0, 0.9);border:0px;padding:10px;text-align:right;line-height:1.5rem;font-size:24px;}
 .ampstart-nav-item.www-current-page:after{content:"";display:block;height:4px;background:linear-gradient(90deg,#280e75 0,#066573);}
 .ampstart-card-colored{background-color: #f3f5f8;}.ampstart-card-hover:hover{background-color:#F8F8F8;}.c-fff {color:#fff;}
@@ -143,51 +143,7 @@ amp-consent > .schliessen {color:#FFF;background-color:rgba(0,0,0, 0.9);border:0
 <!-- End Navbar -->
 
     <div id="main" role="main" class="container">
-<amp-geo layout="nodisplay">
-  <script type="application/json">
-    {
-      "ISOCountryGroups": {
-        "eu": ["al", "ad", "am", "at", "by", "be", "ba", "bg", "ch", "cy", "cz", "de", "dk", "ee", "es", "fo", "fi", "fr", "gb", "ge", "gi", "gr", "hu", "hr", "ie", "is", "it", "lt", "lu", "lv", "mc", "mk", "mt", "no", "nl", "po", "pt", "ro", "ru", "se", "si", "sk", "sm", "tr", "ua", "uk", "va"]
-      }
-    }
-  </script>
-</amp-geo>
-        <amp-consent id="myUserConsent" layout="nodisplay">
-<script type="application/json">
-{
-	"consents": {
-		"eu": {
-		  "promptIfUnknownForGeoGroup": "eu",
-		  "promptUI": "consentDialog"
-		}
-	},
-	"postPromptUI": "post-consent-ui"
-}
-</script>
-  <div class="popupOverlay"
-    id="consentDialog">
-    <div class="consentPopup">
-      <div class="h3 m1">Dürfen wir Ihre Nutzung unserer Website zur Verbesserung unseres Angebots und Erfassung Ihrer Interessen auswerten?</div>
-      <p class="m1">Dafür nutzen wir Google Analytics. Weitere Informationen finden Sie in unserer <a href="/datenschutz/">Datenschutzerklärung</a>. Ihre Einwilligung ist freiwillig. Sie können diese jederzeit in der Zukunft widerrufen.</p>
-      <button on="tap:myUserConsent.accept"
-        class="ampstart-btn ampstart-btn-secondary caps mx1" role="button">JA</button>
-      <button on="tap:myUserConsent.reject"
-        class="ampstart-btn ampstart-btn-secondary caps" role="button">NEIN</button>
-    </div>
-  </div>
-  <div id="post-consent-ui">
-    <button on="tap:myUserConsent.prompt()"
-      class="ampstart-btn caps m1">Einwilligung Ändern</button>
-  </div>
-</amp-consent>
-        <!--
-      <amp-user-notification id="my-notification"
-  layout="nodisplay">
-        <div role="button" on="tap:my-notification.dismiss" tabindex="0" class="ampstart-navbar-trigger items-start schliessen">✕</div>        
-        <div>Diese Website verwendet Cookies, um die Nutzerfreundlichkeit zu verbessern. Durch die weitere Nutzung der Website stimmen Sie dem zu. Weitere Infos zu Cookies und deren Deaktivierung finden Sie <a href="/datenschutz/">hier</a>.</div>
-        <div class="ta-c"><a rel="nofollow" href="/impressum">Impressum</a> | <a rel="nofollow" href="/datenschutz/">Datenschutz</a> | <a href="/disclaimer/">Disclaimer</a></div>
-      </amp-user-notification>
--->
+{% include cookieconsent-w-postui.html %}
       {{ content }}
     </div>
 
