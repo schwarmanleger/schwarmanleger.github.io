@@ -7,14 +7,14 @@ canonical_url: https://schwarmanleger.de/impressum/
 
 <h2>Angaben gemäß § 5 TMG:</h2>
 <p>Fabian Tan<br>Einzelunternehmer<br>
-C/O Factory Berlin<br>
+C/O Factory Works GmbH<br>
 Lohmühlenstraße 65<br>12435 Berlin </p>
 <h2>Kontakt:</h2>
 E-Mail: schwarmanleger@gmail.com<br>
 Telefon: 0162-4645833
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h2>
 <p>Fabian Tan<br>
-C/O Factory Berlin<br>
+C/O Factory Works GmbH<br>
 Lohmühlenstraße 65<br>12435 Berlin </p>
 <p>Wir sind nicht bereit oder verpflichtet, an
 Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle
