@@ -5,7 +5,7 @@ laufzeit: 16 Monate
 rendite: 4,15% p.a.
 zinsfaelligkeit: endfällig
 categories: [abc, def]
-externalurl: https://exporo.de/projekt/schillerquartier-zeuthen
+externalurl: https://exporo.de/projekt/schillerquartier-zeuthen?a_aid=64268
 canonical_url: https://schwarmanleger.de/blog/2018/02/22/Crowdinvesting-Exporo-schillerquartier-zeuthen.html
 ---
 
