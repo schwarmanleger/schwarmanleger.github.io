@@ -8,6 +8,15 @@
 	"zusammenfassung":"",
 	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
 },{
+	"name":"Kapilendo: nextbike GmbH",
+	"url":"https://www.kapilendo.de/projekte/4e7788bc-fb1e-40af-8918-cd7b12a78e89?partner=kap-a&kaid=7881&aid=pd01",
+	"zins":"8%",
+	"dauer":"3 Jahre",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Finanzierung der Expansion des marktführenden Anbieters für Bike Sharing in Deutschland und Europa: 8,00 % Festzins p.a. und bis zu 15,00 % möglicher Erfolgszins bei 3 Jahren Laufzeit.",
+	"konditionen":"Zinsen: 8% p.a. (jährlich) - Laufzeit: ca. 3 Jahre - Tilgung: endfällig - Ab 100 Euro"
+},{
 	"name":"Exporo: STUDENT & LIVING",
 	"url":"https://exporo.de/projekt/student-and-living?a_aid=64268",
 	"zins":"5%",
@@ -16,6 +25,15 @@
 	"status_css":"status_active",
 	"zusammenfassung":"Attraktiv für studentisches Wohnen: Microapartments in Greifswald. Es liegt ein rechtsverbindlicher Bebauungsplan vor und der Baubeginn erfolgt zeitnah. Verkaufsverhandlungen laufen bereits. Harte Patronatserklärung der Gesellschafterin der Nachrangdarlehensnehmerin über die Gesamtsumme des Investmentkapitals der Exporo Anleger zzgl. Zinsen und Kosten. Grundschuld an dem Projekt im Range nach der Bank für die Treuhänderin.",
 	"konditionen":"Zinsen: 5% p.a. (endfällig) - Laufzeit: ca. 15-18 Monate (bis max. 31.10.2019) - Tilgung: endfällig - Ab 500 Euro"
+},
+	"name":"Kapilendo: EventKingdom GmbH",
+	"url":"https://www.kapilendo.de/projekte/28a3cd0e-482f-45ca-9a67-944442e1f88a?partner=kap-a&kaid=7881&aid=pd01",
+	"zins":"9%",
+	"dauer":"4 Jahre",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Finanzierung der Expansion im Bereich für hochwertige Online-Einladungen: 9,00 % Festzins p.a. und bis zu 20,00 % möglicher Erfolgszins. Namhafte Kunden wie Hertha BSC, Daimler, Sixt, Süddeutsche Zeitung",
+	"konditionen":"Zinsen: 9% p.a. (jährlich) - Laufzeit: ca. 4 Jahre - Tilgung: endfällig - Ab 100 Euro"
 },{
 	"name":"Zinsland: STUDENT & LIVING",
 	"url":"https://www.zinsland.de/projekte/grimoldweg?utm_campaign=tell-a-friend&utm_source=ZL967155",
@@ -43,6 +61,15 @@
 	"status_css":"status_active",
 	"zusammenfassung":"Finanzierung der Sanierung, Modernisierung und Veräußerung von 13 Mehrfamilienhäuser mit insgesamt 80 Wohneinheiten sowie 6 einzelne Wohnungen in prosperierender Rhein-Main-Region",
 	"konditionen":"Zinsen: 6,5% p.a. (halbjährig) - Laufzeit: ca. 3 Jahre (bis 30.06.2021) - Tilgung: endfällig - Ab 10 Euro"
+},{
+	"name":"Kapilendo: Si Us Instruments GmbH",
+	"url":"https://www.kapilendo.de/projekte/6bc5373a-2de6-4de9-8146-9e5e6eca18f2?partner=kap-a&kaid=7881&aid=pd01",
+	"zins":"8,5%",
+	"dauer":"4 Jahre",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Finanzierung der Expansion im Bereich chirurgischer Einmalinstrumente: 8,50 % Festzins p.a. und bis zu 20,00 % möglicher Erfolgszins",
+	"konditionen":"Zinsen: 8,5% p.a. (jährlich) - Laufzeit: ca. 4 Jahre - Tilgung: endfällig - Ab 100 Euro"
 },{
 	"name":"Bergfürst: Potsdam-Groß Glienicke",
 	"url":"https://partner.bergfuerst.com/go.cgi?pid=200&wmid=67&cpid=1&prid=3&subid=&target=potsdam",
