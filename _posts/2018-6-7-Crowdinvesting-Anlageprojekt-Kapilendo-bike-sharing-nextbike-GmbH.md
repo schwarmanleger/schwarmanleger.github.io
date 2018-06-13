@@ -18,7 +18,7 @@ canonical_url: https://schwarmanleger.de/blog/2018/06/07/Crowdinvesting-Anlagepr
 <p>Das Anlageprojekt auf einen Blick:</p>
 <ul>
 <li>
-<b>8,00 % Festzins p.a. und bis zu 15,00 % möglicher Erfolgszins bei 3 Jahren Laufzeit</li>
+    <b>8,00 % Festzins p.a. und bis zu 15,00 % möglicher Erfolgszins</b> bei 3 Jahren Laufzeit</li>
 <li>Profitabel durch nachhaltiges und zukunftsorientiertes Geschäftsmodell</li>
 <li>Marktführer in Europa und Deutschland auf dem stark wachsenden Bike Sharing-Markt</li>
 <li>Rahmenverträge mit Städten und ÖPNV-Unternehmen z.B. in Köln, München, Berlin sowie Kooperationen mit renommierten Unternehmen wie Deezer, VISA und der Santander Consumer Bank</li>
