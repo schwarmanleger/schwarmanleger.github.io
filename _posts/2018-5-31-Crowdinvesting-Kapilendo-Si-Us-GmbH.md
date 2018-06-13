@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 04. April 2018 - Kapilendo startet wieder Crowdinvesting-Projekt mit der Si Us Instruments GmbH
+title: 31. Mai 2018 - Kapilendo startet wieder Crowdinvesting-Projekt mit der Si Us Instruments GmbH
 laufzeit: 4 Jahre
 rendite: 8.5% p.a. + Erfolgszins
 zinsfaelligkeit: jährlich
