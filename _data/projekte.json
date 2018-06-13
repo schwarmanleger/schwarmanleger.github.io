@@ -8,6 +8,42 @@
 	"zusammenfassung":"",
 	"konditionen":"Zinsen:  - Laufzeit:  - Tilgung: endfällig - Ab 500 Euro"
 },{
+	"name":"Exporo: STUDENT & LIVING",
+	"url":"https://exporo.de/projekt/student-and-living?a_aid=64268",
+	"zins":"5%",
+	"dauer":"15-18 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Attraktiv für studentisches Wohnen: Microapartments in Greifswald. Es liegt ein rechtsverbindlicher Bebauungsplan vor und der Baubeginn erfolgt zeitnah. Verkaufsverhandlungen laufen bereits. Harte Patronatserklärung der Gesellschafterin der Nachrangdarlehensnehmerin über die Gesamtsumme des Investmentkapitals der Exporo Anleger zzgl. Zinsen und Kosten. Grundschuld an dem Projekt im Range nach der Bank für die Treuhänderin.",
+	"konditionen":"Zinsen: 5% p.a. (endfällig) - Laufzeit: ca. 15-18 Monate (bis max. 31.10.2019) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"Zinsland: STUDENT & LIVING",
+	"url":"https://www.zinsland.de/projekte/grimoldweg?utm_campaign=tell-a-friend&utm_source=ZL967155",
+	"zins":"6%",
+	"dauer":"24 Mo.",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Finanzierung zweier Bestandsobjekte in etablierter Wohnlage in Frankfurt am Main. Vertrieb von 19 Wohneinheiten. Objekte in gepflegtem Gesamtzustand mit ansprechendem Mix aus 2-4-Zimmer-Wohnungen",
+	"konditionen":"Zinsen: 6% p.a. (endfällig) - Laufzeit: ca. 24 Monate (bis 31.Mai 2020) - Tilgung: endfällig - Ab 500 Euro"
+},{
+	"name":"BERGFÜRST: Wuppertal",
+	"url":"https://partner.bergfuerst.com/go.cgi?pid=200&wmid=82&cpid=1&prid=3&subid=&target=wuppertal",
+	"zins":"7%",
+	"dauer":"5 Jahre",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Grundbuchlich besichertes Bankdarlehen mit einem Festzins von 7,0 % p.a. bei halbjährlicher Auszahlung zur Finanzierung dreier zentral gelegenen Bestandsobjekte mit insgesamt 50 Wohn- und 5 Gewerbeeinheiten in Wuppertal",
+	"konditionen":"Zinsen: 7% p.a. (halbjährig) - Laufzeit: ca. 5 Jahre (bis 31.05.2023) - Tilgung: endfällig - Ab 10 Euro"
+},{
+	"name":"BERGFÜRST: Wohnen im Aartal",
+	"url":"https://partner.bergfuerst.com/go.cgi?pid=200&wmid=79&cpid=1&prid=3&subid=&target=wohnen-im-aartal",
+	"zins":"6,5%",
+	"dauer":"3 Jahre",
+	"status":"INVESTIERBAR",
+	"status_css":"status_active",
+	"zusammenfassung":"Finanzierung der Sanierung, Modernisierung und Veräußerung von 13 Mehrfamilienhäuser mit insgesamt 80 Wohneinheiten sowie 6 einzelne Wohnungen in prosperierender Rhein-Main-Region",
+	"konditionen":"Zinsen: 6,5% p.a. (halbjährig) - Laufzeit: ca. 3 Jahre (bis 30.06.2021) - Tilgung: endfällig - Ab 10 Euro"
+},{
 	"name":"Bergfürst: Potsdam-Groß Glienicke",
 	"url":"https://partner.bergfuerst.com/go.cgi?pid=200&wmid=67&cpid=1&prid=3&subid=&target=potsdam",
 	"zins":"6,0%",
@@ -21,8 +57,8 @@
 	"url":"https://www.zinsland.de/projekte/bruennerstrasse-wien?utm_campaign=tell-a-friend&utm_source=ZL967155",
 	"zins":"6,5%",
 	"dauer":"30 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Unbesichertes Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Finanzierung des Neubau eines Mehrfamilienhauses im 21. Bezirk von Wien.",
 	"konditionen":"Zinsen: 6,5% p.a. (endfällig) - Laufzeit: ca. 30 Monate (bis 19.08.2020) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -39,8 +75,8 @@
 	"url":"https://www.zinsland.de/projekte/am-stener-berg?utm_campaign=tell-a-friend&utm_source=ZL967155",
 	"zins":"6,5%",
 	"dauer":"18 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Unbesichertes Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Finanzierung des Neubaus von 41 Einfamilienhäusern/ Doppelhaushälften in Berlin",
 	"konditionen":"Zinsen: 6,5% p.a. (endfällig) - Laufzeit: ca. 18 Monate (bis 30.06.2019) - Tilgung: endfällig - Ab 500 Euro"
 },{
@@ -48,8 +84,8 @@
 	"url":"https://www.zinsland.de/projekte/seniorenpflegeheim-carolinenhof?utm_campaign=tell-a-friend&utm_source=ZL967155",
 	"zins":"6,5%",
 	"dauer":"18 Mo.",
-	"status":"INVESTIERBAR",
-	"status_css":"status_active",
+	"status":"FINANZIERT",
+	"status_css":"status_financed",
 	"zusammenfassung":"Unbesichertes Nachrangdarlehen mit qualifiziertem Rangrücktritt für die Finanzierung des Ankaufs eines Pflegeheimes mit 90 Apartments in Salzgitter",
 	"konditionen":"Zinsen: 6,5% p.a. (endfällig) - Laufzeit: ca. 18 Monate (bis 01.06.2019) - Tilgung: endfällig - Ab 500 Euro"
 },{
