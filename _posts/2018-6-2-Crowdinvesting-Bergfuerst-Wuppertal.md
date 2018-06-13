@@ -18,6 +18,7 @@ Bestandsimmobilien: Drei zentral gelegene Objekte mit insgesamt 50 Wohn- und 5 G
 <li>Feste Verzinsung von 7,0 % p.a. bei einer Laufzeit von 5 Jahren</li>
 <li>Sicherheit in Form einer zweitrangigen Grundschuld auf den drei Objekten. Zusätzlich wird eine Bürgschaft des Gesellschafters in Darlehenshöhe nebst Zinsen abgegeben.</li>
 <li>Finanzierungsziel: EUR 1.000.000</li>
+</ul>
 
 <div class="blogbottom">
     {% comment %}
