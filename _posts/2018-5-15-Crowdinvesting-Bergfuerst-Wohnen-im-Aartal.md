@@ -19,6 +19,7 @@ canonical_url: https://schwarmanleger.de/blog/2018/05/15/Crowdinvesting-Bergfuer
 <li><b>Feste Verzinsung</b> von <b>6,5 % p.a.</b> bei einer <b>Laufzeit</b> von <b>36 Monaten</b></li>
 <li><b>Sicherheit: Grundschuld</b> im Rang nach dem erstrangig finanzierenden Kreditinstitut</li>
 <li><b>Finanzierungsziel:</b> EUR 1.100.000</li>
+</ul>
 
 <div class="blogbottom">
     {% comment %}
@@ -28,6 +29,5 @@ canonical_url: https://schwarmanleger.de/blog/2018/05/15/Crowdinvesting-Bergfuer
     {% if page.externalurl %}
     <a target="_blank" href="{{ page.externalurl }}" class="ampstart-btn">ZUR PROJEKTSEITE &raquo;</a>
     {% endif %}
-    
 </div>
 
