@@ -29,39 +29,21 @@ Die Einheiten und Tiefgaragenstellplätzen sollen im
 Verlauf des Projekts im Wege des Verkaufs veräußert
 werden.</p>
 
-<p>Das Objekt befindet sich in citynaher Lage: in die In-	
-nenstadt sind es gerade einmal ca. 10 Minuten Fuß-
-weg. Der Bahnhof sowie ein Busbahnhof sind ebenfalls
-auf kurzem Fußwege zu erreichen.<br />
-In unmittelbarer Nähe zum Objekt befinden sich eine Reihe universitärer Einrichtungen wie z.B. Kliniken,
-das Chemische – Institut und der Botanische
-Garten.<br />
-	 In der Nachbarschaft findet man Einkaufsmärkte,
-Getränkemärkte, Bäcker und medizinische Versorgungseinrichtungen.</p>
+<p>Das Objekt befindet sich in citynaher Lage: in die Innenstadt sind es gerade einmal ca. 10 Minuten Fußweg. Der Bahnhof sowie ein Busbahnhof sind ebenfalls auf kurzem Fußwege zu erreichen.<br />
+In unmittelbarer Nähe zum Objekt befinden sich eine Reihe universitärer Einrichtungen wie z.B. Kliniken, das Chemische – Institut und der Botanische Garten.<br />
+In der Nachbarschaft findet man Einkaufsmärkte, Getränkemärkte, Bäcker und medizinische Versorgungseinrichtungen.</p>
 
 <p>Die Investoren stellen der C&S Projekt Greifswald GmbH & Co. KG mit Sitz in Grünwald ein Nachrangdarlehen zur Verfügung, welches für das beschriebene Immobilienprojekt eingesetzt wird. Die Investoren sollen durch die Erlöse aus dem Immobilienprojekt “Student & Living” zurückgezahlt werden.</p>
 
-<p>Der Projektinitiator befindet sich bereits in Verkaufs-	
-verhandlungen für die Microapartments. Es existiert eine harte Patronatserklärung der Gesellschafterin der
-Nachrangdarlehensnehmerin über die Gesamtsumme
-des Investmentkapitals der Exporo Anleger zzgl. Zinsen
-und Kosten.</p>
+<p>Der Projektinitiator befindet sich bereits in Verkaufsverhandlungen für die Microapartments. Es existiert eine harte Patronatserklärung der Gesellschafterin der Nachrangdarlehensnehmerin über die Gesamtsumme des Investmentkapitals der Exporo Anleger zzgl. Zinsen und Kosten.</p>
 
-<p>Die Investoren profitieren von einer endfälligen Verzinsung
-in Höhe von 5,0 % pro Jahr sowie einer Laufzeit
-von ca. 18 Monaten.</p>
+<p>Die Investoren profitieren von einer endfälligen Verzinsung in Höhe von 5,0 % pro Jahr sowie einer Laufzeit von ca. 18 Monaten.</p>
 
-<p>Das Investment der Exporo Anleger wird bis mindestens
-31.07.2019 voll verzinst und maximal bis zum Laufzeitende
-am 31.10.2020. Bei frist- und formgerechter
-Kündigung bis zum 03.07.2019 der Emittentin kann sich
-die Laufzeit inkl. Verzinsung auf ca. 15 Monate bis zum
-31.07.2019 verkürzen.</p>
+<p>Das Investment der Exporo Anleger wird bis mindestens 31.07.2019 voll verzinst und maximal bis zum Laufzeitende am 31.10.2020. Bei frist- und formgerechter Kündigung bis zum 03.07.2019 der Emittentin kann sich die Laufzeit inkl. Verzinsung auf ca. 15 Monate bis zum 31.07.2019 verkürzen.</p>
 
 <p>Highlights des Anlageprojekts:</p>
 <ul>
-<li>
-	<b>5% Festzins p.a. bei 15-18 Monaten Laufzeit</b> (maximal bis 31.10.2019)</li>
+<li><b>5% Festzins p.a. bei 15-18 Monaten Laufzeit</b> (maximal bis 31.10.2019)</li>
 <li>Der Projektinitiator befindet sich bereits in Verkaufsverhandlungen für die Microapartments.</li>
 <li>Es liegt ein rechtsverbindlicher B-Plan (Bebauungsplan) vor und der Baubeginn erfolgt zeitnah.</li>
 </ul>
