@@ -21,11 +21,11 @@ canonical_url: https://schwarmanleger.de/projekte/
 				<span class="mdl-chip {{ projekt.status_css }}"><span class="mdl-chip__text c-projprops status_text_highlight" >{{ projekt.status }}</span></span>
 			</div>
 			<div class="px2 pt0 pb2 fs-14">
-				<div><h3 class="fs-18 m0 c-projtitle"><a target="_blank" href="{{ projekt.url }}">{{ projekt.name }}</a></h3></div>
+				<div><h3 class="fs-18 m0 c-projtitle"><a ref="nofollow" target="_blank" href="{{ projekt.url }}">{{ projekt.name }}</a></h3></div>
 				<div class="c-projdesc">{{ projekt.zusammenfassung }}</div>
 				<div class="c-projprops">{{ projekt.konditionen }}</div>
 			</div>
-			<div class="p0 fs-14 ta-r"><a target="_blank" href="{{ projekt.url }}" >Zur Projektseite »</a></div>
+			<div class="p0 fs-14 ta-r"><a ref="nofollow" target="_blank" href="{{ projekt.url }}" >Zur Projektseite »</a></div>
 			</fieldset>
 		</div>
 	</div>
