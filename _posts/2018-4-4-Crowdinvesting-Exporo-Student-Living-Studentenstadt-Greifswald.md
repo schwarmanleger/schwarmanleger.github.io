@@ -61,7 +61,7 @@ die Laufzeit inkl. Verzinsung auf ca. 15 Monate bis zum
 <p>Highlights des Anlageprojekts:</p>
 <ul>
 <li>
-	<b>5% Festzins p.a. bei 15-18 Monaten Laufzeit</p> (maximal bis 31.10.2019)</li>
+	<b>5% Festzins p.a. bei 15-18 Monaten Laufzeit</b> (maximal bis 31.10.2019)</li>
 <li>Der Projektinitiator befindet sich bereits in Verkaufsverhandlungen für die Microapartments.</li>
 <li>Es liegt ein rechtsverbindlicher B-Plan (Bebauungsplan) vor und der Baubeginn erfolgt zeitnah..</li>
 </ul>
